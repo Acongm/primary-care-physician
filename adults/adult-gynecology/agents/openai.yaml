@@ -1,4 +1,0 @@
-interface:
-  display_name: "Adult Gynecology"
-  short_description: "为成年人阴道不适、出血与更年期问题查证指南并准备妇科就诊"
-  default_prompt: "请用 $adult-gynecology 查证我的妇科问题相关指南，说明人群适用边界并整理就诊问题。"

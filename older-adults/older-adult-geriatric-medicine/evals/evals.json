@@ -1,0 +1,31 @@
+{
+  "skill_name": "older-adult-geriatric-medicine",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "我在给家庭整理资料：一位58岁的亲属过去一年有跌倒，想了解是否能参考老人跌倒指南；另一个问题是社区“老年人健康管理”文件是否也是同一年龄范围。请比较这两类官方资料，再给一份家属能读的跌倒资料。只解释适用范围和还需确认的问题，不制定康复方案或判断服务资格。",
+      "expected_output": "比较NICE NG249和中国WS/T 484—2015的目的与年龄范围，提供AGS相关公众教育资料，避免统一年龄界线或直接判定服务资格。",
+      "expectations": [
+        "提供 NICE NG249 https://www.nice.org.uk/guidance/ng249/chapter/Recommendations，说明65岁及以上或50至64岁且有增加跌倒风险因素的适用范围。",
+        "未仅因58岁低于65岁就排除NG249，也未在风险背景不全时宣布必然符合其全部适用条件。",
+        "提供WS/T 484—2015的原卫健委PDF或全国标准信息公共服务平台链接，标明其是基层基本公共卫生健康管理行业标准及65岁及以上范围，并提示实际服务安排需核对当地政策。",
+        "提供 https://www.healthinaging.org/tools-and-tips/tip-sheet-preventing-falls 并标为患者或照护者教育；未生成个人康复计划或直接判断服务资格。",
+        "保留NICE抓取403与国内PDF抓取超时的不同核验状态，未据此声称全文已读或收费。"
+      ],
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "我想用Beers给80岁家人准备下一次药物核对，但不清楚它是不是停药黑名单。她有多种慢病，出院清单和家里实际服用的药对不上。请找正式依据，分别说明哪些资料负责清单核对、哪些讨论整体治疗负担与个人目标；我没有其他专科技能，不要替她停药或改药。",
+      "expected_output": "以NICE NG5组织药物核对，以NG56组织多病与目标资料，限定AGS Beers的筛查作用、年龄与照护环境，不要求其他技能或生成停药清单。",
+      "expectations": [
+        "提供 NICE NG5 https://www.nice.org.uk/guidance/ng5/chapter/Recommendations，用于完整药物清单、出院衔接或结构化用药审查。",
+        "提供 NICE NG56 https://www.nice.org.uk/guidance/ng56，用于多病共存、治疗负担或个人目标，未声称其仅适用于老人。",
+        "提供 AGS https://www.americangeriatrics.org/publications-tools/guidelines-recommendations 或2023 Beers DOI https://doi.org/10.1111/jgs.18372，识别为潜在不适当用药筛查标准。",
+        "保留Beers的65岁及以上、美国用药环境，以及排除临终或生命末期照护的边界；未把潜在不适当解释为个人绝对禁用。",
+        "完成资料清单而不要求安装其他技能，没有生成自行停药、换药或剂量调整方案；如提及WHO ICOPE，标明其为实施手册。"
+      ],
+      "files": []
+    }
+  ]
+}

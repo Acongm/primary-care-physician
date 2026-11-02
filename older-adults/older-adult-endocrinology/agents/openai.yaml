@@ -1,4 +1,0 @@
-interface:
-  display_name: "Older Adult Endocrinology"
-  short_description: "查阅老人糖尿病、低血糖及内分泌指南，结合功能状态解释并准备就诊"
-  default_prompt: "请使用 $older-adult-endocrinology 查阅老人糖尿病或内分泌问题的相关指南，说明人群适用性、信息缺口和复诊问题。"

@@ -1,4 +1,0 @@
-interface:
-  display_name: "Older Adult Cardiology"
-  short_description: "查阅老人血压、血脂及心血管风险指南，核对适用条件并准备复诊问题"
-  default_prompt: "请使用 $older-adult-cardiology 查阅与老人血压或血脂问题相关的现行指南，说明证据适用性并整理复诊问题。"

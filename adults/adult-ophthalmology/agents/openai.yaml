@@ -1,4 +1,0 @@
-interface:
-  display_name: "Adult Ophthalmology"
-  short_description: "为成年人眼红、眼痒与结膜炎查证资料，整理评估信号和就诊问题"
-  default_prompt: "请用 $adult-ophthalmology 查证成年人眼红或结膜炎相关资料，并整理需要关注的信号和眼科就诊问题。"

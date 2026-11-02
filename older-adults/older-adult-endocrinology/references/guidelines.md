@@ -2,22 +2,22 @@
 
 核验日期：2026-11-02。用途：糖尿病及常见内分泌问题的资料导航和就诊准备。
 
-## 适用范围
+## Topics
 
-重点是老年糖尿病、低血糖、监测和多病共存，另提供甲状腺、骨质疏松及其他内分泌问题的入口。这里的“老人”是家庭使用分组；具体推荐须按指南年龄范围、糖尿病类型、认知与生活能力、营养、肾功能、衰弱及照护支持判断。
+- [老年糖尿病与治疗负担](#older-diabetes)
+- [糖尿病总体资料与监测](#diabetes-monitoring)
+- [低血糖与照护沟通](#hypoglycemia)
+- [甲状腺资料](#thyroid)
+- [骨健康与其他内分泌入口](#bone-health)
+- [适用范围](#scope) · [检索词](#keywords) · [可选跨科资料](#related) · [版本备注](#version-notes)
 
-中国老年糖尿病指南与 ADA 老年人章节均提供针对老年群体的评估框架，因此检索时应从这些章节进入，再回查总体指南。不能把普通成人、儿童或妊娠糖尿病的目标直接迁移到老人，也不以单次血糖或单个糖化血红蛋白结果生成调药建议。
+## Scope
 
-## 常见问题与检索路径
+重点是老年糖尿病、低血糖、监测和多病共存，另提供甲状腺、骨质疏松及其他内分泌问题的入口。这里的“老人”是家庭使用分组。
 
-| 要了解的问题 | 建议先读 | 要补充的背景 |
-|---|---|---|
-| 老人的血糖目标怎样讨论 | 中国老年糖尿病指南、ADA 第 13 章 | 身体功能、低血糖史、肾功能、治疗负担 |
-| 指尖血糖、糖化、动态监测有何区别 | ADA 总目录对应章节 | 检查时间、单位、进食及用药背景 |
-| 饭量改变或记忆变差影响管理吗 | ADA 老年章节、NIDDK 低血糖资料 | 照护能力、药品清单及近期变化 |
-| 甲状腺结节、甲功异常或骨质疏松 | ATA、Endocrine Society | 已有诊断、检查报告和专病人群 |
+中国老年糖尿病指南与 ADA 老年人章节提供针对老年群体的评估框架；普通成人、儿童或妊娠糖尿病内容不能直接迁移到老人。
 
-## 中国官方或中华期刊指南
+## Older diabetes
 
 ### 1. 中国老年糖尿病诊疗指南（2024版）
 
@@ -26,13 +26,19 @@
 - 类型／人群：中文临床指南，老年糖尿病患者；具体年龄及分层标准须以原文为准。
 - 可查：综合评估、分层管理、治疗负担和管理路径。核验：官方索引摘要已读；原文抓取返回 401，未读取全文，也不能仅据状态码断言具体收费方式。
 
+### 4. ADA：13. Older Adults: Standards of Care in Diabetes—2026
+
+- 入口：[2026 年第 13 章原出版方文章](https://diabetesjournals.org/care/article/49/Supplement_1/S277/163928/13-Older-Adults-Standards-of-Care-in-Diabetes-2026)。机构：美国糖尿病学会；类型：正式标准中的老年人专章。
+- 人群／可查：老年糖尿病患者；综合健康评估、认知与功能状态、低血糖风险、监测技术以及治疗负担。
+- 核验：已核对官方文章索引中的标题、章节及内容摘要；全文直接抓取 403。未据此宣称收费，也不根据摘要重建完整管理算法。
+
+## Diabetes monitoring
+
 ### 2. 中国糖尿病防治指南（2024版）
 
 - 机构：中华医学会糖尿病学分会；[学分会正式发布页](https://diab.cma.org.cn/cn/ncontent.aspx?oid=3042)；[指南共识目录](https://diab.cma.org.cn/cn/zhinangongshi.aspx)。官网发布页日期为 2025-01-20，题名版本为 2024 版，两者分别记录。
 - 类型／人群：中文综合临床指南，包含不同糖尿病类型及特殊人群；老人仍优先结合上一条。
 - 可查：诊断分型、监测、生活方式、并发症及综合管理。核验：官方标题、目录与发布信息已确认；直接抓取 403，未读取全文。
-
-## 国际正式指南与临床路径
 
 ### 3. ADA：Standards of Care in Diabetes
 
@@ -40,25 +46,7 @@
 - 类型／人群：英文临床标准；按章节区分一般成人、老人、儿童和妊娠等人群。
 - 可查：诊断、血糖监测、低血糖、体重及心肾并发症管理。核验：已读官方目录，官网说明通常每年更新，必要时也会在线更新。引用时保存具体章节和版本，不只引用总首页。
 
-### 4. ADA：13. Older Adults: Standards of Care in Diabetes—2026
-
-- 入口：[2026 年第 13 章原出版方文章](https://diabetesjournals.org/care/article/49/Supplement_1/S277/163928/13-Older-Adults-Standards-of-Care-in-Diabetes-2026)。机构：美国糖尿病学会；类型：正式标准中的老年人专章。
-- 人群／可查：老年糖尿病患者；综合健康评估、认知与功能状态、低血糖风险、监测技术以及治疗负担。
-- 核验：已核对官方文章索引中的标题、章节及内容摘要；全文直接抓取 403。未据此宣称收费，也不根据摘要重建完整管理算法。
-
-### 5. Endocrine Society：Clinical Practice Guidelines
-
-- 机构：美国内分泌学会；[正式指南目录](https://www.endocrine.org/clinical-practice-guidelines)。类型：英文临床指南索引，不是单一疾病指南。
-- 人群／可查：按骨健康与骨质疏松、低血糖、肾上腺、肥胖等领域进入，随后检查具体指南是否适用于老人。
-- 核验：已读分类目录；目录另区分在研、退役和协作文件。口袋工具与期刊资源的权限应分别确认，不能把目录可读解释为全部产品免费。
-
-### 6. ATA：Guidelines & Statements
-
-- 机构：美国甲状腺协会；[甲状腺指南及声明目录](https://www.thyroid.org/professionals/ata-professional-guidelines/)。类型：英文指南、声明和共识混合目录。
-- 人群／可查：甲亢、甲减、结节及甲状腺癌等；先选择疾病和成人范围，再核对老年及共病条件。手术、妊娠及儿童文件不能混用。
-- 核验：已读官方目录。多个不同年份的文件并存，部分较新的癌症指南不等于所有甲状腺主题均已同步更新。
-
-## 官方患者教育
+## Hypoglycemia
 
 ### 7. NIDDK：Low Blood Glucose (Hypoglycemia)
 
@@ -66,7 +54,23 @@
 - 类型／人群：英文患者教育；糖尿病患者及照护者，包含老人、肾病等相关风险背景。
 - 可查：低血糖的表现、风险因素与和医护人员讨论的预防问题。核验：已读官方网页。本仓库仅索引教育内容，不另外生成个人急救、停药或剂量调整方案。
 
-## 中英文检索词
+## Thyroid
+
+### 6. ATA：Guidelines & Statements
+
+- 机构：美国甲状腺协会；[甲状腺指南及声明目录](https://www.thyroid.org/professionals/ata-professional-guidelines/)。类型：英文指南、声明和共识混合目录。
+- 人群／可查：甲亢、甲减、结节及甲状腺癌等；先选择疾病和成人范围，再核对老年及共病条件。手术、妊娠及儿童文件不能混用。
+- 核验：已读官方目录。多个不同年份的文件并存，部分较新的癌症指南不等于所有甲状腺主题均已同步更新。
+
+## Bone health
+
+### 5. Endocrine Society：Clinical Practice Guidelines
+
+- 机构：美国内分泌学会；[正式指南目录](https://www.endocrine.org/clinical-practice-guidelines)。类型：英文临床指南索引，不是单一疾病指南。
+- 人群／可查：按骨健康与骨质疏松、低血糖、肾上腺、肥胖等领域进入，随后检查具体指南是否适用于老人。
+- 核验：已读分类目录；目录另区分在研、退役和协作文件。口袋工具与期刊资源的权限应分别确认，不能把目录可读解释为全部产品免费。
+
+## Keywords
 
 | 中文 | 英文 |
 |---|---|
@@ -76,15 +80,15 @@
 | 治疗负担／去强化 | treatment burden / deintensification |
 | 甲状腺结节／骨质疏松 | thyroid nodule / osteoporosis |
 
-## 跨科链接与适用边界
+## Related
 
 - 血压、血脂和心血管风险见[心血管内科](https://github.com/Acongm/primary-care-physician/blob/main/older-adults/older-adult-cardiology/references/guidelines.md)；眼底相关问题见[眼科](https://github.com/Acongm/primary-care-physician/blob/main/older-adults/older-adult-ophthalmology/references/guidelines.md)。
 - 多药管理、食欲和功能下降、跌倒及照护能力见[老年医学科](https://github.com/Acongm/primary-care-physician/blob/main/older-adults/older-adult-geriatric-medicine/references/guidelines.md)。
 - “去强化”是需要专业评估的管理概念，不代表家属可根据年龄自行停药。具体方案需结合治疗团队已制定的计划。
 
-## 更新规则
+## Version notes
 
-每次引用 ADA 时从固定入口核对当前年份，再定位老人专章；保留原引用版本以便追溯。中国指南同时记录题名年份与实际发表日期。甲状腺等专题逐篇核对替代关系，不能用总目录的时间戳覆盖单篇指南日期。
+ADA 固定入口与具体老人专章分别保留；参考条目的年份不自动代表当前版。中国指南的题名年份与实际发表日期分别记录，甲状腺等总目录的时间戳不覆盖单篇指南日期。
 
 [返回老人索引](https://github.com/Acongm/primary-care-physician/blob/main/older-adults/README.md)
 

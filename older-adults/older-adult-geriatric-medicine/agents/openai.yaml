@@ -1,4 +1,0 @@
-interface:
-  display_name: "Older Adult Geriatric Medicine"
-  short_description: "查阅老人多病共存、衰弱、跌倒及多重用药资料，整理跨科评估与复诊问题"
-  default_prompt: "请使用 $older-adult-geriatric-medicine 根据老人的主要困难查阅权威资料，梳理多病、功能或用药问题并准备跨科复诊清单。"

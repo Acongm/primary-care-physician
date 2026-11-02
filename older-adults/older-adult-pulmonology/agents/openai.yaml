@@ -1,4 +1,0 @@
-interface:
-  display_name: "Older Adult Pulmonology"
-  short_description: "查阅老人慢阻肺、呼吸康复及家庭氧疗资料，区分病程并准备复诊问题"
-  default_prompt: "请使用 $older-adult-pulmonology 按老人当前呼吸问题和病程查阅权威资料，解释适用条件并整理应向医生确认的问题。"

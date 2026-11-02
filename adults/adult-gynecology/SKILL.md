@@ -27,15 +27,17 @@ description: "面向成年人的妇科资料查证与就诊准备，重点为外
 
 ## 按症状类别选择资料
 
-按需读取 [references/guidelines.md](references/guidelines.md)，先确认每份资料纳入的人群。
+按下表选择主题；主题不明时先读[主题索引](references/guidelines.md#index)，再按H2标题定位相关段。
+片段链接仅提供定位，不会自动限制文件读取；用读取工具选取对应标题至下一个同级标题之间的内容，不默认加载整份文献。
+具体版次、适用人群与访问状态在来源条目中维护；索引未覆盖的问题另匹配官方专病资料。
 
-| 场景 | 优先来源 | 核验重点 |
+| 场景 | 本地主题与优先来源 | 查证重点 |
 | --- | --- | --- |
-| 外阴阴道不适的初步理解 | NHS Vaginitis、ACOG患者FAQ | 多种原因、需要面诊或检测的情境 |
-| 非孕期阴道炎专业问题 | ACOG Practice Bulletin No.215 | 明确仅非孕期；核对原文可访问范围 |
-| 已确诊或需要了解假丝酵母菌病 | 中国2024版指南、CDC VVC章节 | 首次/复发、复杂情况及特殊人群分段 |
-| 月经过多 | NICE NG88 | 生活影响、评估与检查路径 |
-| 围绝经期和绝经相关问题 | NICE NG23 | 现行修订、症状评估与不同人群适用条件 |
+| 外阴阴道不适的初步理解 | [外阴阴道不适](references/guidelines.md#vaginitis)：NHS、ACOG患者FAQ | 多种原因、需要面诊或检测的情境 |
+| 非孕期阴道炎专业问题 | [外阴阴道不适](references/guidelines.md#vaginitis)：ACOG Practice Bulletin No.215 | 明确仅非孕期；核对原文可访问范围 |
+| 已确诊或需要了解假丝酵母菌病 | [假丝酵母菌病](references/guidelines.md#candidiasis)：中国指南、CDC章节 | 首次/复发、复杂情况及特殊人群分段 |
+| 月经过多 | [月经过多](references/guidelines.md#heavy-menstrual-bleeding)：NICE NG88 | 生活影响、评估与检查路径 |
+| 围绝经期和绝经相关问题 | [围绝经期与绝经](references/guidelines.md#menopause)：NICE NG23 | 现行修订、症状评估与不同人群适用条件 |
 
 不要把分泌物外观直接等同某种感染；不要因VVC收入STI指南就认定它通常由性传播造成。
 对孕期、产后或哺乳期，另外核对相应专门资料；不能用非孕期标题的建议直接填补证据缺口。

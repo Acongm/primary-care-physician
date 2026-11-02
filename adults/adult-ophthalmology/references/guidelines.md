@@ -2,41 +2,20 @@
 
 核验日期：2026-11-02。范围：成年人结膜炎及相近眼表症状的资料导航。结膜炎属于眼科主题；“眼红”是表现，不能据此直接确定病因。
 
-## 目录
+## Index
 
-- [常见问题与检索路径](#常见问题与检索路径)
-- [中国官方与原始期刊资料](#中国官方与原始期刊资料)
-- [国际正式指南与临床专题](#国际正式指南与临床专题)
-- [官方患者教育与保健资料](#官方患者教育与保健资料)
-- [中英文检索词](#中英文检索词)
-- [跨科链接与适用边界](#跨科链接与适用边界)
-- [更新方法](#更新方法)
+按中文主题选择资料；具体版本、人群和访问范围见各条来源记录。
 
-## 常见问题与检索路径
-
-先看 CDC/NHS 患者页，确认应收集哪些症状和何时求助，再读 CDC 临床综述及中国过敏性结膜炎共识。记录单眼或双眼、疼痛、畏光、视力变化、分泌物、隐形眼镜使用及暴露史，不用照片单独定诊断。
-
-| 想查的问题 | 建议的资料路径 |
+| 中文主题 | 资料范围 |
 | --- | --- |
-| 红眼、眼痒、流泪 | 从 CDC 临床综述查不同原因；患者页帮助理解就医信息。 |
-| 分泌物增多或眼睑黏住 | 查结膜炎专题，带着持续时间和分泌物变化就诊，不仅按外观自行区分病原体。 |
-| 伴鼻痒、喷嚏的眼部不适 | 交叉查鼻炎页，同时保留独立眼科评估。 |
-| 隐形眼镜相关症状 | 优先阅读 CDC 专题中的隐形眼镜和眼科评估提示。 |
+| [红眼与病因评估](#red-eye) | CDC临床综述与NHS结膜炎患者专题 |
+| [过敏性结膜炎](#allergic-conjunctivitis) | 中国过敏性结膜炎专家共识 |
+| [结膜炎照护与就医](#conjunctivitis-care) | CDC、NEI患者专题 |
+| [中英文检索词](#keywords) | 疾病与评估的检索词 |
+| [源站说明](#source-notes) | 版本、访问条件及源站特有提醒 |
+| [跨科与适用边界](#related-topics) | 可选补充导航与范围限制 |
 
-## 中国官方与原始期刊资料
-
-### 1. 我国过敏性结膜炎诊断和治疗专家共识（2018年）
-
-- 发布机构：中华医学会眼科学分会角膜病学组。
-- 标题与版本：我国过敏性结膜炎诊断和治疗专家共识（2018年）；2018；中华眼科杂志54卷6期；DOI 10.3760/cma.j.issn.0412-4081.2018.06.003。
-- 原文入口：[我国过敏性结膜炎诊断和治疗专家共识（2018年）](https://master.yiigle.com/uploads/guide_html/%E6%88%91%E5%9B%BD%E8%BF%87%E6%95%8F%E6%80%A7%E7%BB%93%E8%86%9C%E7%82%8E%E8%AF%8A%E6%96%AD%E5%92%8C%E6%B2%BB%E7%96%97%E4%B8%93%E5%AE%B6%E5%85%B1%E8%AF%86%282018%E5%B9%B4%29.html)。
-- 资料类型与语言：专家共识；中文。
-- 适用人群：过敏性结膜炎相关患者；不涵盖所有红眼病因。
-- 用途：查过敏性结膜炎的分类、检查思路和专业管理框架。此文为专家共识，不能标成覆盖所有结膜炎的统一指南。
-- 访问状态：已读取中华医学会平台网页；作为已核实历史版本保留，使用前再查替代版本。
-
-
-## 国际正式指南与临床专题
+## Red Eye
 
 ### 2. Clinical Overview of Pink Eye (Conjunctivitis)
 
@@ -48,8 +27,29 @@
 - 用途：查感染、过敏及其他原因的区别，隐形眼镜使用者的特殊评估，以及传播管理。适合补充指南，不把综述改称正式指南。
 - 访问状态：已读取官方网页。
 
+### 5. Conjunctivitis
 
-## 官方患者教育与保健资料
+- 发布机构：英国 NHS。
+- 标题与版本：Conjunctivitis；动态患者专题。
+- 原文入口：[Conjunctivitis](https://www.nhs.uk/conditions/conjunctivitis/)。
+- 资料类型与语言：官方患者教育；英文。
+- 适用人群：普通公众；本页使用成人相关部分。
+- 用途：查常见表现、护理与求助流程。英国服务指引按本地就医条件理解，不能照搬医院名称或联系电话。
+- 访问状态：已读取官方网页。
+
+## Allergic Conjunctivitis
+
+### 1. 我国过敏性结膜炎诊断和治疗专家共识（2018年）
+
+- 发布机构：中华医学会眼科学分会角膜病学组。
+- 标题与版本：我国过敏性结膜炎诊断和治疗专家共识（2018年）；2018；中华眼科杂志54卷6期；DOI 10.3760/cma.j.issn.0412-4081.2018.06.003。
+- 原文入口：[我国过敏性结膜炎诊断和治疗专家共识（2018年）](https://master.yiigle.com/uploads/guide_html/%E6%88%91%E5%9B%BD%E8%BF%87%E6%95%8F%E6%80%A7%E7%BB%93%E8%86%9C%E7%82%8E%E8%AF%8A%E6%96%AD%E5%92%8C%E6%B2%BB%E7%96%97%E4%B8%93%E5%AE%B6%E5%85%B1%E8%AF%86%282018%E5%B9%B4%29.html)。
+- 资料类型与语言：专家共识；中文。
+- 适用人群：过敏性结膜炎相关患者；不涵盖所有红眼病因。
+- 用途：查过敏性结膜炎的分类、检查思路和专业管理框架。此文为专家共识，不能标成覆盖所有结膜炎的统一指南。
+- 访问状态：已读取中华医学会平台网页；作为已核实历史版本保留，使用前再查替代版本。
+
+## Conjunctivitis Care
 
 ### 3. How to Treat Pink Eye
 
@@ -71,18 +71,7 @@
 - 用途：用通俗语言说明不同病因、传播预防和需要看医生的情况，适合就诊前阅读。页面内容不是针对某个读者的处方。
 - 访问状态：已读取官方网页。
 
-### 5. Conjunctivitis
-
-- 发布机构：英国 NHS。
-- 标题与版本：Conjunctivitis；动态患者专题。
-- 原文入口：[Conjunctivitis](https://www.nhs.uk/conditions/conjunctivitis/)。
-- 资料类型与语言：官方患者教育；英文。
-- 适用人群：普通公众；本页使用成人相关部分。
-- 用途：查常见表现、护理与求助流程。英国服务指引按本地就医条件理解，不能照搬医院名称或联系电话。
-- 访问状态：已读取官方网页。
-
-
-## 中英文检索词
+## Keywords
 
 | 中文 | 英文 |
 | --- | --- |
@@ -91,17 +80,13 @@
 | 畏光／视力变化 | photophobia / vision changes |
 | 隐形眼镜相关眼病 | contact lens-related eye disease |
 
-检索时优先使用“完整标题＋机构名称”或 DOI；英文可组合疾病名与 guideline、patient information、assessment。搜索结果只能帮助定位原文，不能替代阅读全文。
-
-## 跨科链接与适用边界
-
-鼻眼症状交叉查看[耳鼻咽喉科](https://github.com/Acongm/primary-care-physician/blob/main/adults/adult-otolaryngology/references/guidelines.md)；同时出现感冒样症状可查[普通内科](https://github.com/Acongm/primary-care-physician/blob/main/adults/adult-general-internal-medicine/references/guidelines.md)。眼表症状不等于结膜炎，眼科检查可能需要排查其他疾病；本页不提供抗菌、抗病毒或激素滴眼液方案。
-
-## 更新方法
+## Source Notes
 
 按中文共识完整标题核对是否修订，记录 CDC、NEI、NHS 各自页面日期。AAO资料仅保留人工导航：[Practice Guidelines](https://www.aao.org/education/guidelines-browse)；其材料有专门的[AI使用声明](https://www.aao.org/statement-on-artificial-intelligence)，本仓库不抓取、转存或改写其指南正文。AAO入口已由官方索引核实，本次正文抓取受限，不据此判断费用。
 
-每次更新记录原文标题、机构、版本、人群、网址、核验日期和访问状态。只读到摘要时明确标记；地区药品可及性、说明书和实际就医条件应另行核对。这里保存的是参考导航，不包含个人病历或个体用药方案。
+## Related Topics
+
+鼻眼症状交叉查看[耳鼻咽喉科](https://github.com/Acongm/primary-care-physician/blob/main/adults/adult-otolaryngology/references/guidelines.md)；同时出现感冒样症状可查[普通内科](https://github.com/Acongm/primary-care-physician/blob/main/adults/adult-general-internal-medicine/references/guidelines.md)。眼表症状不等于结膜炎，眼科检查可能需要排查其他疾病；本页不提供抗菌、抗病毒或激素滴眼液方案。
 
 [返回成年人目录](https://github.com/Acongm/primary-care-physician/blob/main/adults/README.md) · [返回总目录](https://github.com/Acongm/primary-care-physician/blob/main/README.md)
 

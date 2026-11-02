@@ -22,15 +22,16 @@ description: 面向婴幼儿、儿童及青少年的口腔资料查证。在询�
 
 ## 读取导航并按牙列与问题检索
 
-读取 [references/guidelines.md](references/guidelines.md)，区分中国保健服务规范、AAPD Best Practice、AAPD/ADA 正式指南与患者教育。
+按下表只读取命中的主题及必要来源条目；问题尚不明确时，先查看 [中文主题索引](references/guidelines.md#topic-index) 再选择分支。
+使用文件读取工具时按 H2 标题定位相关段落；链接中的 `#fragment` 不会使工具自动截取章节。资料类型、具体版本和历史访问情况以对应来源记录为准，再按下节联网核验现行状态。
 
-| 问题分支 | 优先来源 | 查阅重点 |
+| 问题分支 | 按需读取的资料 | 查阅重点 |
 | --- | --- | --- |
-| 建立防龋思路或反复出现龋齿 | AAPD Caries-risk Assessment and Management | 0～5 岁与 6 岁及以上路径、风险与保护因素 |
-| 含氟牙膏或专业涂氟疑问 | AAPD Fluoride Therapy；ADA/AAP 家长资料 | 不同措施的目的、适用因素和专业评估 |
-| 新萌恒磨牙或考虑窝沟封闭 | AAPD/ADA Pit-and-fissure Sealants | 牙位、萌出情况、龋损阶段和复查 |
-| 婴幼儿口腔检查服务 | 中国儿童口腔保健指导技术规范 | 0～6 岁服务范围、筛查和转诊 |
-| 乳牙与恒牙已有病变 | 对应儿童牙科专病官方资料 | 牙列、病变和检查要求，避免仅套预防章节 |
+| 建立防龋思路或反复出现龋齿 | [AAPD Caries-risk Assessment and Management](references/guidelines.md#care-and-caries-risk) | 0～5 岁与 6 岁及以上路径、风险与保护因素 |
+| 含氟牙膏或专业涂氟疑问 | [AAPD Fluoride Therapy；ADA/AAP 家长资料](references/guidelines.md#fluoride) | 不同措施的目的、适用因素和专业评估 |
+| 新萌恒磨牙或考虑窝沟封闭 | [AAPD/ADA Pit-and-fissure Sealants](references/guidelines.md#sealants) | 牙位、萌出情况、龋损阶段和复查 |
+| 婴幼儿口腔检查服务 | [中国儿童口腔保健指导技术规范](references/guidelines.md#care-and-caries-risk) | 0～6 岁服务范围、筛查和转诊 |
+| 乳牙与恒牙已有病变 | [先定位龋病范围，再补查对应儿童牙科专病原始资料](references/guidelines.md#care-and-caries-risk) | 牙列、病变和检查要求，避免仅套预防章节 |
 
 - 将风险评估用于组织与牙医讨论的问题，不凭聊天记录自动划定个人风险等级或固定复查间隔。
 - 对口呼吸、打鼾或牙列疑问分别保留口腔和耳鼻喉评估，不把窝沟封闭或防龋资料用于解释全部牙颌问题。

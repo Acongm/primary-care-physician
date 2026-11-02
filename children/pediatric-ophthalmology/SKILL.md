@@ -22,15 +22,16 @@ description: 面向儿童及青少年的眼科资料查证与检查解读。在�
 
 ## 阅读导航并选择眼科分支
 
-先读取 [references/guidelines.md](references/guidelines.md)，分清国家诊疗指南、儿童眼保健服务规范、IMI 循证报告和 AAPOS 患者教育。
+按下表只读取命中的主题及必要来源条目；问题尚不明确时，先查看 [中文主题索引](references/guidelines.md#topic-index) 再选择分支。
+使用文件读取工具时按 H2 标题定位相关段落；链接中的 `#fragment` 不会使工具自动截取章节。资料类型、具体版本和历史访问情况以对应来源记录为准，再按下节联网核验现行状态。
 
-| 问题分支 | 优先来源 | 核对的重点 |
+| 问题分支 | 按需读取的资料 | 核对的重点 |
 | --- | --- | --- |
-| 学校筛查异常或看不清 | 中国近视防治指南；AAPOS 屈光不正材料 | 筛查、正式验光和诊断的区别 |
-| 幼儿眼保健与视力检查 | 中国 0～6 岁眼保健服务规范 | 年龄覆盖、检查与转诊服务 |
-| 远视储备或近视风险 | 中国指南；IMI 临床管理报告及后续更新 | 年龄、屈光状态、风险概念和随访 |
-| 已近视并比较管理方法 | IMI 相应报告、更新与原始论文 | 研究人群、屈光和眼轴结局、时间与风险 |
-| 疑斜视或弱视 | 中国相应独立指南；儿童眼科官方资料 | 检查与诊断范围，避免使用近视路径替代 |
+| 学校筛查异常或看不清 | [中国近视防治指南](references/guidelines.md#china-guidelines)；[AAPOS 屈光不正材料](references/guidelines.md#screening-and-refraction) | 筛查、正式验光和诊断的区别 |
+| 幼儿眼保健与视力检查 | [中国 0～6 岁眼保健服务规范](references/guidelines.md#screening-and-refraction) | 年龄覆盖、检查与转诊服务 |
+| 远视储备或近视风险 | [中国指南](references/guidelines.md#china-guidelines)；[IMI 临床管理报告及后续更新](references/guidelines.md#myopia-management) | 年龄、屈光状态、风险概念和随访 |
+| 已近视并比较管理方法 | [IMI 相应报告、更新与原始论文](references/guidelines.md#myopia-management) | 研究人群、屈光和眼轴结局、时间与风险 |
+| 疑斜视或弱视 | [中国相应独立指南；儿童眼科官方资料](references/guidelines.md#china-guidelines) | 检查与诊断范围，避免使用近视路径替代 |
 
 - 将看得更清楚、减缓近视进展和预防并发问题分别解释；不要把不同目标合并为一个“有效率”。
 - 比较干预时检查年龄、基线状态、绝对变化、随访长度、不良反应及当地适用条件，避免跨研究直接排优劣。

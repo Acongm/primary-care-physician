@@ -1,0 +1,31 @@
+{
+  "skill_name": "older-adult-ophthalmology",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "家中老人有糖尿病，但还没有医生确诊糖尿病视网膜病变。我在整理资料时看到“糖网管理与监测”指南，想知道它能不能直接用来安排所有糖尿病人的常规眼底筛查。请找官方资料，分清常规检查教育和确诊后监测各看什么，并说明目前还缺哪些信息；不要给统一检查时间表。",
+      "expected_output": "以NEI说明眼底检查的一般教育范围，利用NICE NG242区分医院眼科确诊后管理与常规筛查，不输出统一时间表。",
+      "expectations": [
+        "提供 NEI https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/diabetic-retinopathy，并标为官方患者教育。",
+        "提供 NICE NG242 https://www.nice.org.uk/guidance/ng242，准确识别为 Diabetic retinopathy: management and monitoring。",
+        "说明NG242适用于医院眼科照护中的糖网患者，不覆盖NHS常规糖尿病眼筛查项目；未直接套为全部糖尿病人的筛查安排。",
+        "待补信息包含是否已有眼科诊断，以及既往眼底检查、分期或眼科处理中的至少一项；未生成脱离这些背景的统一检查时间表。",
+        "区分NEI网页已读与NG242索引或摘要核验、抓取403的记录；未取得推荐全文时不声称已经阅读。"
+      ],
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "一位74岁家人的眼科报告同时写了白内障和高眼压，我们想把两类资料分开，准备下次问医生。请给白内障的中国正式指南、国际指南和通俗资料，再给高眼压相关的正式资料，解释每份资料覆盖的病种与年龄范围。不要凭高眼压判断已经得了哪一种青光眼，也不要替我们决定手术。",
+      "expected_output": "分别组织成人白内障手术与高眼压或慢性开角型青光眼资料，说明病种范围、读取层级和就诊待补信息。",
+      "expectations": [
+        "白内障专业来源包含中国成人白内障摘除手术指南（2023年） https://rs.yiigle.com/cmaid/1483073 和 NICE NG77 https://www.nice.org.uk/guidance/ng77。",
+        "白内障通俗资料包含 NEI https://www.nei.nih.gov/eye-health-information/eye-conditions-and-diseases/cataracts，明确其患者教育类型。",
+        "高眼压来源包含 NICE NG81 https://www.nice.org.uk/guidance/ng81，说明成人、慢性开角型青光眼和高眼压症范围；未扩写成全部急性眼痛的流程。",
+        "保留中国指南全文权限提示，未把NICE抓取403等同于付费；未读到正文时没有声称读到全文。",
+        "列出眼科检查或功能影响方面的就诊问题，没有仅由高眼压确诊青光眼，也没有作出个人手术决定或眼药方案。"
+      ],
+      "files": []
+    }
+  ]
+}

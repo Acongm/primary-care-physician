@@ -24,15 +24,15 @@ description: "为老人及照护者查阅和解释内分泌指南，用于老年
 
 ## 3. 按分支读取证据
 
-先读取 [references/guidelines.md](references/guidelines.md)，再选择最相关的官方入口。
+按当前问题选择下表主题，用读取工具按对应 `##` 标题定位，读取至下一同级标题前；链接中的 `#fragment` 只用于导航，不会自动截取内容。仅加载相关主题，需要比较时合并；范围不明时补读[适用范围](references/guidelines.md#scope)。版本年份与访问核验层级以参考条目为准，再按第 4 节核对现行状态。
 
-| 分支 | 优先来源 | 查阅方向 |
+| 分支 | 按需读取的主题 | 查阅方向 |
 |---|---|---|
-| 老人的糖尿病目标与治疗负担 | 中国老年糖尿病指南、ADA 老人专章 | 功能、认知、共病、个体化评估 |
-| 血糖或糖化、连续监测报告 | ADA 现行标准相应章节 | 监测方式、结果解释与适用条件 |
-| 低血糖风险和照护沟通 | ADA 老人及相关章节、NIDDK | 背景风险、信息记录、复诊问题 |
-| 甲状腺问题 | ATA 指南与声明 | 病种、成人范围、老人及共病条件 |
-| 骨质疏松及其他内分泌问题 | Endocrine Society | 具体疾病与人群范围 |
+| 老人的糖尿病目标与治疗负担 | [老年糖尿病](references/guidelines.md#older-diabetes)：中国指南、ADA 老人专章 | 功能、认知、共病、个体化评估 |
+| 血糖或糖化、连续监测报告 | [总体资料与监测](references/guidelines.md#diabetes-monitoring)：中国指南、ADA 固定入口 | 监测方式、结果解释与适用条件 |
+| 低血糖风险和照护沟通 | [低血糖](references/guidelines.md#hypoglycemia)及[老年糖尿病](references/guidelines.md#older-diabetes) | NIDDK 患者教育、ADA 专章与背景风险 |
+| 甲状腺问题 | [甲状腺](references/guidelines.md#thyroid)：ATA | 病种、成人范围、老人及共病条件 |
+| 骨质疏松及其他内分泌问题 | [骨健康与其他内分泌入口](references/guidelines.md#bone-health)：Endocrine Society | 具体疾病与人群范围 |
 
 ## 4. 确认版本和原文范围
 

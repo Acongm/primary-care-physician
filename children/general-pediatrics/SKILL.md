@@ -21,15 +21,16 @@ description: 面向婴幼儿、儿童及青少年的普通儿科资料查证与�
 
 ## 阅读本技能资料并选择问题路径
 
-先读取 [references/guidelines.md](references/guidelines.md)，将其中条目作为来源导航，区分诊疗方案、临床指南、保健规范和患者教育。
+按下表只读取命中的主题及必要来源条目；问题尚不明确时，先查看 [中文主题索引](references/guidelines.md#topic-index) 再选择分支。
+使用文件读取工具时按 H2 标题定位相关段落；链接中的 `#fragment` 不会使工具自动截取章节。资料类型、具体版本和历史访问情况以对应来源记录为准，再按下节联网核验现行状态。
 
-| 当前问题 | 优先查阅 | 定位的内容 |
+| 当前问题 | 按需读取的资料 | 定位的内容 |
 | --- | --- | --- |
-| 未明确原因的发热 | RCH Febrile child；年龄符合时查 NICE NG143 | 年龄分层、整体状态、检查与面诊条件 |
-| 呕吐、腹泻或摄入减少 | RCH Gastroenteritis | 脱水评估、非胃肠炎原因及复评条件 |
-| 已涉及流感诊断或检测 | 国家卫生健康委流感诊疗方案 | 儿童章节、适用情境、并发症与分型 |
-| 常规检查、喂养与保健 | 中国儿童健康检查服务规范 | 现行服务范围、年龄覆盖和转诊路径 |
-| 呼吸、皮肤或发育问题占主导 | 相应儿科专病原始来源 | 保留普通儿科整体评估，并补足专科证据 |
+| 未明确原因的发热 | [RCH Febrile child；年龄符合时查 NICE NG143](references/guidelines.md#fever-and-influenza) | 年龄分层、整体状态、检查与面诊条件 |
+| 呕吐、腹泻或摄入减少 | [RCH Gastroenteritis](references/guidelines.md#vomiting-and-diarrhea) | 脱水评估、非胃肠炎原因及复评条件 |
+| 已涉及流感诊断或检测 | [国家卫生健康委流感诊疗方案](references/guidelines.md#fever-and-influenza) | 儿童章节、适用情境、并发症与分型 |
+| 常规检查、喂养与保健 | [中国儿童健康检查服务规范](references/guidelines.md#routine-care) | 现行服务范围、年龄覆盖和转诊路径 |
+| 呼吸、皮肤或发育问题占主导 | [可选跨科入口；按需补查相应儿科专病原始来源](references/guidelines.md#related-resources) | 保留普通儿科整体评估，并补足专科证据 |
 
 - 将单独呕吐、腹痛或发热伴疹子作为需要重新选择评估路径的线索；不要自动归为胃肠炎或普通感冒。
 - 对超出参考文件年龄或病种的问题，继续查找相符的官方来源；不要勉强套用现有条目。

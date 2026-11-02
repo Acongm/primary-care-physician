@@ -24,15 +24,15 @@ description: "为老人及照护者查阅和解释风湿免疫指南，用于高
 
 ## 3. 按病种与阶段选择证据
 
-读取 [references/guidelines.md](references/guidelines.md)，分别进入以下原机构来源。
+按当前问题选择下表主题，用读取工具按对应 `##` 标题定位，读取至下一同级标题前；链接中的 `#fragment` 只用于导航，不会自动截取内容。仅加载相关主题，需要比较时合并；范围不明时补读[适用范围](references/guidelines.md#scope)。版本年份与访问核验层级以参考条目为准，再按第 4 节核对现行状态。
 
-| 当前问题 | 优先来源 | 需要区分的范围 |
+| 当前问题 | 按需读取的主题 | 需要区分的范围 |
 |---|---|---|
-| 高尿酸或疑似痛风 | 中国痛风指南、NICE NG219 | 无症状高尿酸、诊断评估与已确诊痛风 |
-| 已确诊痛风的复诊问题 | ACR 痛风专题、NICE NG219 | 发作期和长期管理 |
-| 已确诊类风湿的治疗理解 | ACR 类风湿专题、EULAR | 病情控制、随访及适用条件 |
-| 退变性关节问题 | NICE NG226 | 骨关节炎评估、功能与管理 |
-| 通俗理解痛风与就诊准备 | NHS 患者专题 | 疾病解释和需要专业评估的问题 |
+| 高尿酸或疑似痛风 | [痛风](references/guidelines.md#gout)：中国指南、NICE NG219 | 无症状高尿酸、诊断评估与已确诊痛风 |
+| 已确诊痛风的复诊问题 | [痛风](references/guidelines.md#gout)：ACR、NICE NG219 | 发作期和长期管理 |
+| 已确诊类风湿的治疗理解 | [类风湿](references/guidelines.md#rheumatoid-arthritis)：ACR、EULAR | 病情控制、随访及适用条件 |
+| 退变性关节问题 | [骨关节炎](references/guidelines.md#osteoarthritis)：NICE NG226 | 骨关节炎评估、功能与管理 |
+| 通俗理解痛风与就诊准备 | [痛风](references/guidelines.md#gout)：NHS 患者专题 | 疾病解释和需要专业评估的问题 |
 
 ## 4. 核对原文、版本与适用性
 

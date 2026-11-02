@@ -22,16 +22,17 @@ description: 面向婴幼儿、儿童及青少年的皮肤科资料查证。在�
 
 ## 读取导航并按皮疹与年龄分支
 
-读取 [references/guidelines.md](references/guidelines.md)，区分中国专家共识、临床指南、医院路径和患者教育。
+按下表只读取命中的主题及必要来源条目；问题尚不明确时，先查看 [中文主题索引](references/guidelines.md#topic-index) 再选择分支。
+使用文件读取工具时按 H2 标题定位相关段落；链接中的 `#fragment` 不会使工具自动截取章节。资料类型、具体版本和历史访问情况以对应来源记录为准，再按下节联网核验现行状态。
 
-| 问题分支 | 优先来源 | 查证重点 |
+| 问题分支 | 按需读取的资料 | 查证重点 |
 | --- | --- | --- |
-| 已确诊或讨论儿童特应性皮炎 | 中国儿童特应性皮炎共识；RCH Eczema | 诊断评估、皮肤护理、影响与随访框架 |
-| 12 岁以下湿疹管理资料 | NICE CG57 | 年龄范围、评估与家长沟通章节 |
-| 比较儿科管理证据 | AAD 特应性皮炎专题的儿科部分 | 明确儿童年龄与推荐所属文章，避免混入成人章节 |
-| 不明原因皮疹且伴发热 | RCH 皮疹资料及相应儿科临床路径 | 整体状态和需要面诊确认的事项 |
-| 疑瘀点或紫癜 | RCH Petechiae and purpura | 风险评估，不以外观自行排除严重病因 |
-| 风团、血管性水肿或疑药物反应 | RCH 荨麻疹及过敏专病来源 | 反应时间线、其他系统表现与鉴别 |
+| 已确诊或讨论儿童特应性皮炎 | [中国儿童特应性皮炎共识；RCH Eczema](references/guidelines.md#eczema-and-atopic-dermatitis) | 诊断评估、皮肤护理、影响与随访框架 |
+| 12 岁以下湿疹管理资料 | [NICE CG57](references/guidelines.md#eczema-and-atopic-dermatitis) | 年龄范围、评估与家长沟通章节 |
+| 比较儿科管理证据 | [AAD 特应性皮炎专题的儿科部分](references/guidelines.md#eczema-and-atopic-dermatitis) | 明确儿童年龄与推荐所属文章，避免混入成人章节 |
+| 不明原因皮疹且伴发热 | [RCH 皮疹资料及相应儿科临床路径](references/guidelines.md#new-rash-and-systemic-signs) | 整体状态和需要面诊确认的事项 |
+| 疑瘀点或紫癜 | [RCH Petechiae and purpura](references/guidelines.md#new-rash-and-systemic-signs) | 风险评估，不以外观自行排除严重病因 |
+| 风团、血管性水肿或疑药物反应 | [可选过敏资料入口；补查 RCH 荨麻疹及相应专病来源](references/guidelines.md#related-resources) | 反应时间线、其他系统表现与鉴别 |
 
 - 将反复湿疹、风团和发热出疹分开解释；不要把“起疹子”当成一个诊断。
 - 对脱发、胎记、痤疮或其他未覆盖病种继续查对应儿童官方资料，并说明原导航的覆盖范围。

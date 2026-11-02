@@ -29,15 +29,17 @@ description: "面向成年人的眼科资料查证与就诊准备，重点为眼
 
 ## 按要回答的问题加载来源
 
-按需打开 [references/guidelines.md](references/guidelines.md)，保留来源的资料类型及原访问状态。
+按下表选择主题；主题不明时先读[主题索引](references/guidelines.md#index)，再按H2标题定位相关段。
+片段链接仅提供定位，不会自动限制文件读取；用读取工具选取对应标题至下一个同级标题之间的内容，不默认加载整份文献。
+具体版次、适用人群与访问状态在来源条目中维护；索引未覆盖的问题另匹配官方专病资料。
 
-| 问题 | 优先来源 | 不要越过的范围 |
+| 场景 | 本地主题与优先来源 | 查证重点 |
 | --- | --- | --- |
-| 理解不同结膜炎病因 | CDC Clinical Overview of Pink Eye | 临床专题不是完整正式临床实践指南 |
-| 了解何时就医及一般照护 | CDC、NEI、NHS患者专题 | 只解释成人部分，不套用新生儿段落 |
-| 查过敏性结膜炎专业依据 | 中国2018年专家共识及可确认的更新 | 共识只针对过敏性结膜炎，不涵盖所有红眼 |
-| 询问是否传染 | 官方页面对应的病因段落 | 未确定病因时避免统一判断“会传染”或“不会传染” |
-| 需要AAO专业资料 | 参考文件中的AAO人工导航 | 遵守其AI使用声明，不抓取、转存或改写受限指南正文 |
+| 理解不同结膜炎病因 | [红眼与病因评估](references/guidelines.md#red-eye)：CDC、NHS | CDC临床专题不是完整正式临床实践指南 |
+| 了解何时就医及一般照护 | [结膜炎照护与就医](references/guidelines.md#conjunctivitis-care)：CDC、NEI | 只解释成人部分，不套用新生儿段落 |
+| 查过敏性结膜炎专业依据 | [过敏性结膜炎](references/guidelines.md#allergic-conjunctivitis)：中国专家共识 | 只针对过敏性结膜炎，不涵盖所有红眼 |
+| 询问是否传染 | [红眼与病因评估](references/guidelines.md#red-eye)及[照护资料](references/guidelines.md#conjunctivitis-care) | 未确定病因时避免统一判断会传染或不会传染 |
+| 需要AAO专业资料 | [源站说明](references/guidelines.md#source-notes)中的人工导航 | 遵守AI使用声明，不抓取、转存或改写受限指南正文 |
 
 不要仅凭分泌物颜色、单眼或双眼、伴鼻炎就确定细菌性、病毒性或过敏性病因。
 需要超出结膜炎的解释时，另查相应官方眼科专题并说明扩展范围。

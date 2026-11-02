@@ -22,17 +22,18 @@ description: 面向儿童及青少年的过敏与免疫资料查证。在询问�
 
 ## 读取导航并选择机制与病种
 
-读取 [references/guidelines.md](references/guidelines.md)，区分专家共识、正式指南、实践参数、临床路径和公众教育。
+按下表只读取命中的主题及必要来源条目；问题尚不明确时，先查看 [中文主题索引](references/guidelines.md#topic-index) 再选择分支。
+使用文件读取工具时按 H2 标题定位相关段落；链接中的 `#fragment` 不会使工具自动截取章节。资料类型、具体版本和历史访问情况以对应来源记录为准，再按下节联网核验现行状态。
 
-| 问题分支 | 优先来源 | 重点核查 |
+| 问题分支 | 按需读取的资料 | 重点核查 |
 | --- | --- | --- |
-| 疑食物过敏 | 中国儿童 IgE 介导食物过敏共识；NICE CG116 | 病史、IgE 与非 IgE 路径、适用年龄 |
-| 检测阳性但日常能耐受 | 食物过敏评估原文和相关实践参数 | 致敏结果与临床反应的区别 |
-| 用药期间出疹或过敏标签 | AAAAI/ACAAI Drug Allergy 实践参数 | 病史分类、评估条件和专业确认 |
-| 反复风团或局部肿胀 | RCH Urticaria | 皮疹特点、急慢性情境及其他系统症状 |
-| 严重过敏反应与行动计划 | AAAAI/ACAAI Anaphylaxis；RCH 家长资料 | 识别、专业随访和沟通范围 |
-| 鼻炎、喘息或湿疹共病 | 中国儿童鼻炎指南及相应专病来源 | 分别核对各疾病，避免单一过敏解释全部症状 |
-| 反复感染或疑免疫缺陷 | 专业免疫学会及儿科官方专病资料 | 补充检索，说明现有导航以过敏为主 |
+| 疑食物过敏 | [中国儿童 IgE 介导食物过敏共识；NICE CG116](references/guidelines.md#food-allergy-and-tests) | 病史、IgE 与非 IgE 路径、适用年龄 |
+| 检测阳性但日常能耐受 | [食物过敏评估原文](references/guidelines.md#food-allergy-and-tests) | 致敏结果与临床反应的区别 |
+| 用药期间出疹或过敏标签 | [AAAAI/ACAAI Drug Allergy 实践参数](references/guidelines.md#parameters-and-patient-tools) | 病史分类、评估条件和专业确认 |
+| 反复风团或局部肿胀 | [RCH Urticaria](references/guidelines.md#urticaria-and-anaphylaxis) | 皮疹特点、急慢性情境及其他系统症状 |
+| 严重过敏反应与行动计划 | [AAAAI/ACAAI Anaphylaxis](references/guidelines.md#parameters-and-patient-tools)；[RCH 家长资料](references/guidelines.md#urticaria-and-anaphylaxis) | 识别、专业随访和沟通范围 |
+| 鼻炎、喘息或湿疹共病 | [中国儿童鼻炎指南](references/guidelines.md#rhinitis-and-inhalants)；[其他专病的可选入口](references/guidelines.md#related-resources) | 分别核对各疾病，避免单一过敏解释全部症状 |
+| 反复感染或疑免疫缺陷 | 另查专业免疫学会及儿科官方专病资料；本地导航未收录对应专病章节 | 补充检索，说明现有导航以过敏为主 |
 
 - 将临床过敏、致敏和不耐受分别解释；不要把广泛检测阳性自动转为长期禁食清单。
 - 涉及激发试验、药物再暴露或脱敏时明确需要专业评估与相应条件，不提供家庭自行试验步骤。

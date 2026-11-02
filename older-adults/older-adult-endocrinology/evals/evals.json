@@ -1,0 +1,31 @@
+{
+  "skill_name": "older-adult-endocrinology",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "我想给82岁、有糖尿病的家人准备复诊阅读材料。她近期吃饭不太规律，也会忘记记录，前段时间有过医生说的低血糖，现在没有正在发作的症状。请找中国老人专用指南、国际老人专章和容易理解的官方资料，说明为什么不能只看一个血糖数值，还缺哪些功能、认知或共病信息。请标明来源版本和实际读取层级，不给个人目标或调药方案。",
+      "expected_output": "选择中国老年糖尿病指南、ADA老人专章和NIDDK低血糖资料，以功能、认知、进食、共病与照护背景说明适用性缺口。",
+      "expectations": [
+        "提供中国老年糖尿病诊疗指南（2024版） https://rs.yiigle.com/CN115791202402/1492119.htm，并与一般中国糖尿病指南区分。",
+        "提供 ADA 固定入口 https://professional.diabetes.org/standards-of-care 并定位老人专章；引用仓库文件时保留13. Older Adults: Standards of Care in Diabetes—2026，若有已核实替代版则说明关系。",
+        "提供 NIDDK https://www.niddk.nih.gov/health-information/diabetes/overview/preventing-problems/low-blood-glucose-hypoglycemia，并标为患者教育。",
+        "待补信息覆盖功能或认知、进食或照护、肾功能或其他共病三类；未用年龄或单个数值给个人目标或调药步骤，未把既往事件误写为当前发作。",
+        "将中国老人指南401和ADA专章403作为仓库访问记录处理；未读到正文时不声称已读，未重新核验时不声称确认了现行专章。"
+      ],
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "今天不联网，只用这个技能已经整理的资料，帮我给老人分开找“甲状腺结节”和“骨质疏松”的权威入口。请说明每个入口是具体指南还是目录、下一步应该核对什么人群和文件状态，以及哪些现行版本信息现在不能确认。我没有安装其他技能，也不需要诊断或治疗建议。",
+      "expected_output": "离线分别使用ATA和Endocrine Society官方目录，说明文件类型、人群与状态核验要求，保留现行版本证据缺口。",
+      "expectations": [
+        "甲状腺使用 https://www.thyroid.org/professionals/ata-professional-guidelines/，骨质疏松使用 https://www.endocrine.org/clinical-practice-guidelines，未虚构具体指南年份。",
+        "明确两者是目录或索引；说明ATA包含指南、声明等不同类型，需要核对具体病种与成人等范围，未把甲状腺癌更新自动当作所有甲状腺主题更新。",
+        "说明Endocrine Society具体文件需区分现行、退役或在研状态。",
+        "执行记录未调用联网工具；输出明确当前不能重新核实官网现行版本，没有把仓库核验日期说成今天已联网核验。",
+        "未要求安装其他技能才能完成两个入口的整理，也没有增加个人诊断或治疗方案。"
+      ],
+      "files": []
+    }
+  ]
+}

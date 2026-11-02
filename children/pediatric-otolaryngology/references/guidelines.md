@@ -1,24 +1,18 @@
 # Pediatric Otolaryngology（儿童耳鼻咽喉科）文献
 
-资料核验日期：**2026-11-02**。范围：儿童鼻塞、鼻炎、腺样体与扁桃体、中耳问题、听力、打鼾及睡眠呼吸问题。生长和发育问题在[儿童保健科](https://github.com/Acongm/primary-care-physician/blob/main/children/child-health-care/references/guidelines.md)单列，本页只处理相关交叉线索。
+资料核验日期：**2026-11-02**。范围：儿童鼻炎、打鼾、腺样体与扁桃体、听力、中耳积液及置管评估资料。
 
-## 常见问题及检索路径
+## topic-index
 
-| 问题 | 优先资料 | 需要区分 |
+原有来源编号保持不变。按中文主题定位下列章节；每条来源保留准确书目信息、适用范围与历史核验状态。
+
+| 中文主题 | 读取章节 | 原来源编号 |
 | --- | --- | --- |
-| 长期鼻塞、喷嚏或疑过敏 | 中国儿童变应性鼻炎指南 | 鼻炎、感染、结构和睡眠呼吸问题 |
-| 张口呼吸、打鼾、夜间疑呼吸暂停 | RCH OSA；扁桃体手术指南 | 单纯症状与正式睡眠呼吸诊断、手术评估不同 |
-| 反复扁桃体问题，讨论手术 | AAO-HNSF 2019 儿童扁桃体指南 | 感染病史、呼吸表现、检查及共同决策 |
-| 中耳积液、听不清或影响课堂听讲 | NICE NG233；AAO-HNSF 2022 鼓膜置管指南 | 分泌性中耳炎与急性中耳炎不能混为一谈 |
-| 语言或发育疑问同时存在 | 听力保健规范并联查儿童保健 | 评估听力，同时保留独立的发育评估路径 |
+| 鼻炎 | [鼻炎](#rhinitis) | 2 |
+| 打鼾腺样体与扁桃体 | [打鼾腺样体与扁桃体](#sleep-and-tonsils) | 3、6、7 |
+| 听力中耳积液与置管 | [听力中耳积液与置管](#hearing-and-middle-ear) | 1、4、5 |
 
-## 中国官方与中华医学会期刊资料
-
-### 1. 儿童耳及听力保健技术规范
-
-- **机构与入口：** 原卫生行政部门；[2013 年儿童保健相关技术规范通知](https://www.nhc.gov.cn/wjw/gfxwj/201304/c636071517c3417097dd5b53536c6cc2.shtml)，卫办妇社发〔2013〕26号，附件 2。
-- **类型/人群/用途：** 儿童保健服务规范；查早期耳部及听力保健、筛查和转诊。具体年龄与服务安排以附件及现行妇幼保健要求为准，不视为所有学龄听力疾病的诊疗指南。
-- **核验：** 官方索引确认通知与附件；直连返回 412，未读取完整附件。使用时核查后续服务规范与所在地筛查流程。
+## rhinitis
 
 ### 2. 儿童变应性鼻炎诊断和治疗指南（2022年，修订版）
 
@@ -26,27 +20,13 @@
 - **类型/人群/用途：** 儿童变应性鼻炎临床指南，摘要明确适用于 **2–18 岁**；查诊断、鉴别、评估和管理框架。
 - **核验：** 出版方目录及摘要已读；正文跳转本次显示“页面未找到”。只确认书目与范围，不声称已核验完整治疗推荐；同时联查[儿童过敏与免疫科](https://github.com/Acongm/primary-care-physician/blob/main/children/pediatric-allergy-and-immunology/references/guidelines.md)。
 
-## 国际正式指南
+## sleep-and-tonsils
 
 ### 3. AAO-HNSF：Clinical Practice Guideline: Tonsillectomy in Children (Update)
 
 - **机构与入口：** 美国耳鼻咽喉头颈外科学会基金会；[2019 年儿童扁桃体切除指南](https://www.entnet.org/quality-practice/quality-products/clinical-practice-guidelines/tonsillectomy-in-children-update/)。
 - **类型/人群/用途：** 正式临床指南；面向考虑扁桃体切除的 **1–18 岁**儿童，查手术评估、围手术期问题和共同决策，不是见到扁桃体大就可套用的手术指令。
 - **核验：** 官方指南介绍页已读，提供正式论文、摘要与患者版入口；未把外链论文全文复制入库。
-
-### 4. NICE NG233：Otitis media with effusion in under 12s
-
-- **机构与入口：** NICE；[NG233 推荐意见](https://www.nice.org.uk/guidance/ng233/chapter/Recommendations)，2023-08-30 发布。
-- **类型/人群/用途：** **12 岁以下**分泌性中耳炎指南；查评估、听力相关影响、观察与干预讨论。该文件明确不覆盖急性或慢性中耳炎的全部管理。
-- **核验：** 官方推荐页索引已确认；直连 403，属于本次访问限制，不说明收费。引用具体建议前再核查当前全文及状态。
-
-### 5. AAO-HNSF：Clinical Practice Guideline: Tympanostomy Tubes in Children (Update)
-
-- **机构与入口：** AAO-HNSF；[2022 年儿童鼓膜置管指南](https://www.entnet.org/quality-practice/quality-products/clinical-practice-guidelines/tympanostomy-tubes-in-children/)。
-- **类型/人群/用途：** 正式临床指南；适用于 **6 个月至 12 岁**已置管或考虑置管的儿童，查选择条件、评估和随访问题。
-- **核验：** 官方介绍页已读，确认 2022 年修订及年龄范围；不能据目录信息替孩子作出是否置管的决定。
-
-## 官方患者教育
 
 ### 6. RCH Kids Health Info：Obstructive sleep apnoea (OSA)
 
@@ -60,18 +40,42 @@
 - **类型/人群/用途：** 围手术期患者教育；查术语、准备和向手术团队提问的方向，适合已经进入手术讨论的家庭。
 - **核验：** 官方网页已读；具体术前禁食、术后照护及复诊要求应以实际医院给出的指示为准。
 
-## 检索中英文关键词
+## hearing-and-middle-ear
+
+### 1. 儿童耳及听力保健技术规范
+
+- **机构与入口：** 原卫生行政部门；[2013 年儿童保健相关技术规范通知](https://www.nhc.gov.cn/wjw/gfxwj/201304/c636071517c3417097dd5b53536c6cc2.shtml)，卫办妇社发〔2013〕26号，附件 2。
+- **类型/人群/用途：** 儿童保健服务规范；查早期耳部及听力保健、筛查和转诊。具体年龄与服务安排以附件及现行妇幼保健要求为准，不视为所有学龄听力疾病的诊疗指南。
+- **核验：** 官方索引确认通知与附件；直连返回 412，未读取完整附件。使用时核查后续服务规范与所在地筛查流程。
+
+### 4. NICE NG233：Otitis media with effusion in under 12s
+
+- **机构与入口：** NICE；[NG233 推荐意见](https://www.nice.org.uk/guidance/ng233/chapter/Recommendations)，2023-08-30 发布。
+- **类型/人群/用途：** **12 岁以下**分泌性中耳炎指南；查评估、听力相关影响、观察与干预讨论。该文件明确不覆盖急性或慢性中耳炎的全部管理。
+- **核验：** 官方推荐页索引已确认；直连 403，属于本次访问限制，不说明收费。引用具体建议前再核查当前全文及状态。
+
+### 5. AAO-HNSF：Clinical Practice Guideline: Tympanostomy Tubes in Children (Update)
+
+- **机构与入口：** AAO-HNSF；[2022 年儿童鼓膜置管指南](https://www.entnet.org/quality-practice/quality-products/clinical-practice-guidelines/tympanostomy-tubes-in-children/)。
+- **类型/人群/用途：** 正式临床指南；适用于 **6 个月至 12 岁**已置管或考虑置管的儿童，查选择条件、评估和随访问题。
+- **核验：** 官方介绍页已读，确认 2022 年修订及年龄范围；不能据目录信息替孩子作出是否置管的决定。
+
+## search-terms
 
 中文：儿童腺样体肥大、扁桃体、睡眠呼吸障碍、儿童打鼾、分泌性中耳炎、听力评估、儿童变应性鼻炎。英文：`adenoid hypertrophy`、`tonsillectomy children`、`paediatric obstructive sleep apnoea`、`otitis media with effusion`、`tympanostomy tubes`、`allergic rhinitis children`。
 
-## 适用边界与跨科链接
+## source-notes
 
-检索前整理症状在白天还是睡眠时出现、持续时间、既往感染记录和听力检查资料。语言发育、学习或身高问题不能仅凭“有腺样体”解释；应联查[儿童保健科](https://github.com/Acongm/primary-care-physician/blob/main/children/child-health-care/references/guidelines.md)。鼻炎与喘息联查[儿童过敏与免疫科](https://github.com/Acongm/primary-care-physician/blob/main/children/pediatric-allergy-and-immunology/references/guidelines.md)及[儿童呼吸科](https://github.com/Acongm/primary-care-physician/blob/main/children/pediatric-pulmonology/references/guidelines.md)，口呼吸涉及牙列时联查[儿童口腔科](https://github.com/Acongm/primary-care-physician/blob/main/children/pediatric-dentistry/references/guidelines.md)。
+AAO-HNSF 的 Update 状态、NICE 评审信息与患者教育页面日期分别核对；手术资料的年龄、病种和候选人群见各来源记录。只保存链接与原创导航，不镜像受版权或使用许可限制的正文。
 
-## 资料更新规则
+## related-resources
 
-使用前核对中国指南修订、AAO-HNSF 的 Update 状态及 NICE 评审信息；手术指南要保留年龄、病种和候选人群。患者教育可以解释流程，不能取代手术适应证原文。只保存链接与原创导航，不镜像受版权或使用许可限制的正文。
+以下为原有可选跨科与目录链接；本技能可独立使用，不要求安装或读取其他技能。
 
-[返回儿科目录](https://github.com/Acongm/primary-care-physician/blob/main/children/README.md)
+- [返回儿科目录](https://github.com/Acongm/primary-care-physician/blob/main/children/README.md)
+- [儿童保健科](https://github.com/Acongm/primary-care-physician/blob/main/children/child-health-care/references/guidelines.md)
+- [儿童过敏与免疫科](https://github.com/Acongm/primary-care-physician/blob/main/children/pediatric-allergy-and-immunology/references/guidelines.md)
+- [儿童口腔科](https://github.com/Acongm/primary-care-physician/blob/main/children/pediatric-dentistry/references/guidelines.md)
+- [儿童呼吸科](https://github.com/Acongm/primary-care-physician/blob/main/children/pediatric-pulmonology/references/guidelines.md)
 
 [返回本技能](../SKILL.md)

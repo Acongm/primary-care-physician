@@ -24,15 +24,15 @@ description: "为老人及照护者查阅和解释眼科指南，用于白内障
 
 ## 3. 分别选择病种来源
 
-读取 [references/guidelines.md](references/guidelines.md)，按以下路径进入原机构网页。
+按当前问题选择下表主题，用读取工具按对应 `##` 标题定位，读取至下一同级标题前；链接中的 `#fragment` 只用于导航，不会自动截取内容。仅加载相关主题，需要比较时合并；范围不明时补读[适用范围](references/guidelines.md#scope)。版本年份与访问核验层级以参考条目为准，再按第 4 节核对现行状态。
 
-| 已明确的问题 | 优先来源 | 需要核对的范围 |
+| 已明确的问题 | 按需读取的主题 | 需要核对的范围 |
 |---|---|---|
-| 白内障和手术沟通 | 中国成人白内障指南、NICE NG77 | 成人、功能影响、术前与术后阶段 |
-| 慢性开角型青光眼或高眼压 | NICE NG81 | 相应病种的发现、诊断及重新评估 |
-| 已在眼科管理的糖网问题 | NICE NG242 | 确诊后的管理与监测、具体病变情况 |
-| 尚在了解糖尿病眼底检查 | NEI 糖网患者资料 | 一般教育与具体筛查安排的区别 |
-| 理解白内障相关术语 | NEI 白内障患者资料 | 概念、检查和治疗用途 |
+| 白内障和手术沟通 | [白内障](references/guidelines.md#cataract)：中国指南、NICE NG77 | 成人、功能影响、术前与术后阶段 |
+| 慢性开角型青光眼或高眼压 | [青光眼与高眼压](references/guidelines.md#glaucoma)：NICE NG81 | 相应病种的发现、诊断及重新评估 |
+| 已在眼科管理的糖网问题 | [确诊后监测](references/guidelines.md#retinopathy-monitoring)：NICE NG242 | 确诊后的管理与监测、具体病变情况 |
+| 尚在了解糖尿病眼底检查 | [眼底检查教育](references/guidelines.md#retinal-screening)：NEI | 一般教育与具体筛查安排的区别 |
+| 理解白内障相关术语 | [白内障](references/guidelines.md#cataract)：NEI 患者资料 | 概念、检查和治疗用途 |
 
 ## 4. 核对指南和证据适用性
 

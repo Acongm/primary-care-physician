@@ -22,17 +22,18 @@ description: 面向婴幼儿、儿童及青少年的生长发育与儿童保健�
 
 ## 阅读导航并选择正确的评价体系
 
-读取 [references/guidelines.md](references/guidelines.md)，区分卫生行业标准、保健服务规范、临床指南、食养指导和家长监测工具。
+按下表只读取命中的主题及必要来源条目；问题尚不明确时，先查看 [中文主题索引](references/guidelines.md#topic-index) 再选择分支。
+使用文件读取工具时按 H2 标题定位相关段落；链接中的 `#fragment` 不会使工具自动截取章节。资料类型、具体版本和历史访问情况以对应来源记录为准，再按下节联网核验现行状态。
 
-| 问题分支 | 优先来源 | 选择条件与局限 |
+| 问题分支 | 按需读取的资料 | 选择条件与局限 |
 | --- | --- | --- |
-| 7 岁以下身高体重评价 | 中国 WS/T 423 对应现行版本 | 年龄、性别、测量方法与标准范围 |
-| 0～5 岁生长图表解释 | WHO Child Growth Standards | 选择相应指标，不混用成人 BMI |
-| 较大儿童生长指标 | WHO 相应年龄参考及中国适龄标准 | 重新确认年龄覆盖，不外推幼儿标准 |
-| 体重增长不足或喂养评估 | NICE NG75 | 核对 faltering growth 范围，不能覆盖全部矮小症 |
-| 膳食营养相关生长迟缓 | 中国儿童青少年生长迟缓食养指南 | 区分营养问题与其他病理原因 |
-| 语言、运动、社交观察 | CDC 里程碑；中国儿童保健规范 | 监测清单与正式筛查、诊断分别解释 |
-| 青春期、学龄学习或疑内分泌问题 | 相应儿童专科的官方资料 | 补充检索，不假称现有导航完整覆盖 |
+| 7 岁以下身高体重评价 | [中国 WS/T 423 对应现行版本](references/guidelines.md#growth-measurement) | 年龄、性别、测量方法与标准范围 |
+| 0～5 岁生长图表解释 | [WHO Child Growth Standards](references/guidelines.md#growth-measurement) | 选择相应指标，不混用成人 BMI |
+| 较大儿童生长指标 | [WHO 年龄体系说明；按需补查中国适龄标准](references/guidelines.md#growth-measurement) | 重新确认年龄覆盖，不外推幼儿标准 |
+| 体重增长不足或喂养评估 | [NICE NG75](references/guidelines.md#nutrition-and-faltering-growth) | 核对 faltering growth 范围，不能覆盖全部矮小症 |
+| 膳食营养相关生长迟缓 | [中国儿童青少年生长迟缓食养指南](references/guidelines.md#nutrition-and-faltering-growth) | 区分营养问题与其他病理原因 |
+| 语言、运动、社交观察 | [CDC 里程碑；中国儿童保健规范](references/guidelines.md#development-and-routine-care) | 监测清单与正式筛查、诊断分别解释 |
+| 青春期、学龄学习或疑内分泌问题 | [可选专业方向；补查相应儿童专科官方资料](references/guidelines.md#related-resources) | 补充检索，不假称现有导航完整覆盖 |
 
 - 连续比较时使用同一年龄性别体系和可比测量；不同标准之间的百分位差异不要直接解释为真实生长变化。
 - 区分身高偏矮、增长速度变化、体重增长不足和神经发育迟缓；不要给所有问题统一建议“加强营养”。

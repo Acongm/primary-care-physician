@@ -1,11 +1,11 @@
 # Primary Care Physician Skills
 
-按儿童、成年人和老年人组织的个人与家庭健康资料检索技能。每个科室为一个独立 skill，使用标准 `SKILL.md`、`agents/openai.yaml` 与 `references/guidelines.md` 结构。
+按儿童、成年人和老年人组织的个人与家庭健康资料检索技能。每个科室是一个独立 skill，采用 **Anthropic skill-creator** 的 `SKILL.md` 与按需参考资料结构。
 
-- 内容与文献核验日期：**2026-11-02**。
-- 规模：**21 个科室技能、21 份文献清单、4 份导航文档**；另含每个技能的 UI 配置，共 **67 个文件**。
-- 文献：**132 条逐项资料**，包括正式指南、专家共识、临床路径、专业专题和患者教育；同一资料可能跨科复用。
-- 语言：目录和技能标识使用英文，工作流程与文献说明以中文为主。
+- 规范来源：[Anthropic skill-creator/SKILL.md](https://github.com/anthropics/skills/blob/ca45fc496a3436251f191354091d557da31c15b5/skills/skill-creator/SKILL.md)，本次对照提交 `ca45fc4`，日期 **2026-11-02**。
+- 规模：**21 个科室技能、21 份文献清单、21 份评估样例文件、4 份导航文档**，共 **67 个文件**。
+- 文献：**132 条逐项资料**，包括正式指南、专家共识、临床路径、专业专题和患者教育；原始来源跨科复用时分别保留。
+- 语言：目录与技能标识使用英文，流程、问题索引和文献说明以中文为主。
 - 用途：按问题查找权威资料、核对适用条件、理解检查及医生方案、准备就诊问题。
 
 ## Navigation
@@ -15,6 +15,8 @@
 - [Adults / 成年人](#adults)
 - [Older Adults / 老年人](#older-adults)
 - [Skill structure / 技能结构](#skill-structure--技能结构)
+- [Progressive disclosure / 按需加载](#progressive-disclosure--按需加载)
+- [Evaluation / 评估与验证](#evaluation--评估与验证)
 - [分类口径](#分类口径)
 - [资料类型与阅读顺序](#资料类型与阅读顺序)
 - [通用官方入口](#通用官方入口)
@@ -77,13 +79,42 @@
 
 以 `children/pediatric-pulmonology/` 为例：
 
-| 文件 | 标准用途 |
+| 文件 | 用途与规范地位 |
 | --- | --- |
-| [SKILL.md](children/pediatric-pulmonology/SKILL.md) | YAML frontmatter 仅含 `name`、`description`；正文规定科室查阅流程、资料选择、输出要求与适用边界 |
-| [references/guidelines.md](children/pediatric-pulmonology/references/guidelines.md) | 官方资料网址、版本、人群、用途、核验范围、中英文检索词与跨科导航 |
-| [agents/openai.yaml](children/pediatric-pulmonology/agents/openai.yaml) | `display_name`、`short_description`、`default_prompt`；默认提示词引用对应 `$skill-name` |
+| [SKILL.md](children/pediatric-pulmonology/SKILL.md) | 必需入口。YAML frontmatter 包含 `name`、`description`；正文说明任务流程、何时读取哪些参考章节及如何输出结果 |
+| [references/guidelines.md](children/pediatric-pulmonology/references/guidelines.md) | 本技能按需使用的参考资料。按临床问题组织，集中保存原始标题、机构、版本、人群、用途、链接与实际访问层级 |
+| [evals/evals.json](children/pediatric-pulmonology/evals/evals.json) | 创建与迭代流程的评估样例，每科两条；用于检查来源选择和适用范围，不属于每次执行都要加载的参考内容 |
 
-所有科室均通过官方 `skill-creator` 的 `init_skill.py` 初始化，并使用其 `generate_openai_yaml.py` 生成 UI 配置、`quick_validate.py` 检查格式。每个技能只包含实际使用的文件；详细文献按需加载。
+每个科室目录可独立使用，保留其中的 `SKILL.md` 和 `references/`。`evals/` 用于维护与验证。此批技能只包含实际需要的文件。
+
+## Progressive disclosure / 按需加载
+
+1. 用 frontmatter 中的名称和描述匹配人群、科室与任务。
+2. 进入匹配的 `SKILL.md`，先确定当前问题和需要的证据类型。
+3. 按该文件的主题表定位 `references/guidelines.md` 对应章节，仅读取所需来源；问题跨主题时再补充其他章节。
+4. 需要引用医学建议时打开原发布方的现行文件，核对具体章节和人群条件。
+
+Markdown 的 `#topic` 片段是章节定位标识；文件读取工具仍需按标题查找对应文本，片段本身不会自动截取内容。各文献文件保持为便于查阅的短文件，顶部提供主题索引。来源的原编号保持稳定，按主题重排后可能不按数字顺序展示。
+
+`SKILL.md` 保存工作流程；`references/` 保存文献事实和来源特有的范围、版本与许可说明。完整标题、DOI、文号、年份及访问限制随来源保留，避免在多处维护不同版本。
+
+## Evaluation / 评估与验证
+
+每个技能的 `evals/evals.json` 包含两条合成使用场景，共 **42 条案例**。字段采用锁定版本的 [references/schemas.md](https://github.com/anthropics/skills/blob/ca45fc496a3436251f191354091d557da31c15b5/skills/skill-creator/references/schemas.md)：
+
+- `skill_name`：与技能名称一致。
+- `evals[].id`、`prompt`、`expected_output`、`files`：用例标识、真实风格任务、成功结果描述及输入文件。
+- `evals[].expectations`：可核查的来源选择、适用人群、访问范围或信息缺口等要求。
+
+本轮采用该版本的 [scripts/quick_validate.py](https://github.com/anthropics/skills/blob/ca45fc496a3436251f191354091d557da31c15b5/skills/skill-creator/scripts/quick_validate.py) 检查所有技能的 frontmatter，并独立检查文献逐条保留、链接与章节、案例结构和名称一致性。该脚本只做基础格式验证；本轮 **42 条案例均为待运行的评估样例，没有预填模型得分或通过率**。
+
+复现基础检查时，在本仓库根目录运行：
+
+```bash
+python /path/to/anthropics/skills/skills/skill-creator/scripts/quick_validate.py children/pediatric-pulmonology
+```
+
+后续运行行为评估时，按上游流程分别执行当前技能与旧版或无技能基线，将输出和评分存入技能同级的 `<skill-name>-workspace/iteration-N/`。评估应检查实际输出和引用依据；运行日志不放入 `references/`。需要说明运行模型、环境和未执行项目，不能把其他模型的演练写成 Claude 的实测结果。
 
 ## 分类口径
 
@@ -137,7 +168,7 @@
 3. 区分疾病解释、检查解读、医生方案理解、家庭观察和就诊准备，再选择对应资料类型。
 4. 每次引用具体建议时回到原发布方，核对现行版本、适用人群、具体章节和访问状态。
 5. 明确区分原文推荐、一般医学解释和基于有限信息的推测；无法读取全文时说明证据缺口。
-6. 更新文献时维护对应 `references/guidelines.md`；改变触发范围或工作流时同步维护 `SKILL.md` 与 `agents/openai.yaml`。
+6. 更新文献时维护对应 `references/guidelines.md`；改变触发范围或工作流时同步维护 `SKILL.md` 与相关 `evals/evals.json`。
 7. 保留技能目录名称与 frontmatter `name` 一致，修改路径后同步检查所有目录和文献链接。
 
 原有官方网址与版本说明保留在各科文献中。此仓库只存技能和参考资料，不存个人或家庭的病历信息。

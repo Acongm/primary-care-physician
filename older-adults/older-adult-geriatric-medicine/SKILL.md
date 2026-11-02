@@ -24,16 +24,16 @@ description: "为老人及照护者查阅和解释老年医学与普通内科资
 
 ## 3. 选择综合评估与专病材料
 
-读取 [references/guidelines.md](references/guidelines.md)，依据问题选择适当类型的来源。
+按当前问题选择下表主题，用读取工具按对应 `##` 标题定位，读取至下一同级标题前；链接中的 `#fragment` 只用于导航，不会自动截取内容。仅加载相关主题，需要比较时合并；范围不明时补读[适用范围](references/guidelines.md#scope)。版本年份与访问核验层级以参考条目为准，再按第 4 节核对现行状态。
 
-| 主问题 | 优先来源 | 使用目的 |
+| 主问题 | 按需读取的主题 | 使用目的 |
 |---|---|---|
-| 功能与照护支持 | WHO ICOPE | 查基层综合评估和个体照护路径 |
-| 多病、多个科室和治疗负担 | NICE NG56 | 查目标、衰弱及照护协调 |
-| 跌倒或活动能力变化 | NICE NG249、HealthInAging | 查适用人群、评估和就诊准备 |
-| 多种药物及出院衔接 | NICE NG5 | 查完整清单、结构化用药审查和信息交接 |
-| 潜在不适当用药筛查 | AGS 目录及 Beers 标准 | 标记需要专业复核的用药情境 |
-| 社区老年健康管理服务 | 中国卫生行业规范 | 查规范范围并核对当地服务安排 |
+| 功能与照护支持 | [综合照护](references/guidelines.md#function)：WHO ICOPE | 查基层综合评估和个体照护路径 |
+| 多病、多个科室和治疗负担 | [多病共存](references/guidelines.md#multimorbidity)：NICE NG56 | 查目标、衰弱及照护协调 |
+| 跌倒或活动能力变化 | [跌倒](references/guidelines.md#falls)：NICE NG249、HealthInAging | 查适用人群、评估和就诊准备 |
+| 多种药物及出院衔接 | [用药核对](references/guidelines.md#medication-review)：NICE NG5 | 查完整清单、结构化用药审查和信息交接 |
+| 潜在不适当用药筛查 | [用药核对](references/guidelines.md#medication-review)：AGS、Beers | 标记需要专业复核的用药情境 |
+| 社区老年健康管理服务 | [社区服务](references/guidelines.md#community-services)：中国卫生行业规范 | 查规范范围并核对当地服务安排 |
 
 ## 4. 核对来源类型与适用边界
 

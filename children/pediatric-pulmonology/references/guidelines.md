@@ -1,38 +1,18 @@
 # Pediatric Pulmonology（儿童呼吸科）文献
 
-资料核验日期：**2026-11-02**。范围：儿童及青少年的咳嗽、喘息、肺炎与哮喘资料检索。必须先区分婴儿、学龄前、学龄期和青少年；成人慢阻肺资料不适用于儿童咳嗽。本页不提供个体诊断、药物剂量或疗程。
+资料核验日期：**2026-11-02**。范围：儿童及青少年的咳嗽、喘息、哮喘、社区获得性肺炎与支原体肺炎资料。
 
-## 常见问题及检索路径
+## topic-index
 
-| 问题 | 优先来源 | 需要先分清 |
+原有来源编号保持不变。按中文主题定位下列章节；每条来源保留准确书目信息、适用范围与历史核验状态。
+
+| 中文主题 | 读取章节 | 原来源编号 |
 | --- | --- | --- |
-| 感冒后咳嗽，或咳嗽持续不退 | RCH Cough | 病程、干湿性、夜间或运动关联、伴随表现 |
-| 反复喘息或讨论是否为哮喘 | 中国儿童哮喘指南；GINA 对应年龄章节 | 诊断评估和已确诊后的长期管理是不同问题 |
-| 已确诊哮喘，想理解复诊和行动计划 | GINA；RCH Asthma 家长版 | 控制情况、发作风险、装置使用和个体行动计划 |
-| 医院诊断肺炎 | 中国相应专病文件；RCH Community acquired pneumonia | 普通社区获得性肺炎与支原体肺炎不能互相代替 |
-| 鼻塞或打鼾伴咳嗽 | [儿童耳鼻咽喉科](https://github.com/Acongm/primary-care-physician/blob/main/children/pediatric-otolaryngology/references/guidelines.md)和[儿童过敏与免疫科](https://github.com/Acongm/primary-care-physician/blob/main/children/pediatric-allergy-and-immunology/references/guidelines.md) | 鼻部问题、过敏与下气道问题可同时存在 |
+| 咳嗽评估 | [咳嗽评估](#cough) | 4 |
+| 喘息与哮喘 | [喘息与哮喘](#wheeze-and-asthma) | 1、3、5、7 |
+| 肺炎与支原体肺炎 | [肺炎与支原体肺炎](#pneumonia) | 2、6 |
 
-## 中国官方与中华医学会期刊指南
-
-### 1. 儿童支气管哮喘诊断与防治指南（2025）
-
-- **机构与入口：** 中华医学会儿科学分会呼吸学组、《中华儿科杂志》编辑委员会、中国医药教育协会儿科专业委员会；[原出版方目录](https://cs.medjournals.cn/cn/toc/65509)，中华儿科杂志 2025，63(4)：324–337；[DOI](https://doi.org/10.3760/cma.j.cn112140-20250124-00074)。
-- **类型/人群/用途：** 中国儿童哮喘诊疗指南；查儿童诊断、评估和规范管理框架，再定位与年龄相符的章节。
-- **核验：** 官方目录及摘要已读，书目信息确认；目录跳转的正文页本次显示“页面未找到”，不代表文献不存在，也不能声称全文已读。
-
-### 2. 儿童肺炎支原体肺炎诊疗指南（2025年版）
-
-- **机构与入口：** 国家卫生健康委、国家中医药局；[官方通知及附件](https://www.nhc.gov.cn/yzygj/c100068/202509/19e7145436b049a68d4ba8c2060dfa56.shtml)，页面发布于 2025-09-23。
-- **类型/人群/用途：** 儿童肺炎支原体肺炎专项诊疗指南；用于已涉及该病的诊断、病情分层和临床讨论，不能覆盖所有儿童肺炎。
-- **核验：** 官方索引确认其修订自 2023 版；直连返回 412，附件全文未逐页核验。使用前重新确认原文与后续更新。
-
-## 国际正式报告与临床路径
-
-### 3. GINA：Global Strategy for Asthma Management and Prevention
-
-- **机构与入口：** 全球哮喘防治倡议；[2026 Strategy Report](https://ginasthma.org/2026-gina-strategy-report/)及[持续更新的报告目录](https://ginasthma.org/reports/)。
-- **类型/人群/用途：** 基于证据的全球策略报告；覆盖不同年龄人群，需选择儿童相应章节。查诊断思路、控制评估、随访与共同决策；摘要版和重度哮喘分册的适用范围另查。
-- **核验：** 官方报告介绍与目录已读，页面提供 PDF 入口；未把完整报告复制入库。官网对再分发和改编有许可要求；保留链接与原创索引，使用时复核年度版本。
+## cough
 
 ### 4. RCH：Cough
 
@@ -40,19 +20,25 @@
 - **类型/人群/用途：** 儿科临床实践指南；查不同病程与咳嗽特征对应的评估路径、进一步检查的考虑因素及转诊情境。
 - **核验：** 官方网页已读；动态网页，日期以原页为准。症状分类用于组织检索，不能仅凭“夜咳”或“咳得久”确定病因。
 
+## wheeze-and-asthma
+
+### 1. 儿童支气管哮喘诊断与防治指南（2025）
+
+- **机构与入口：** 中华医学会儿科学分会呼吸学组、《中华儿科杂志》编辑委员会、中国医药教育协会儿科专业委员会；[原出版方目录](https://cs.medjournals.cn/cn/toc/65509)，中华儿科杂志 2025，63(4)：324–337；[DOI](https://doi.org/10.3760/cma.j.cn112140-20250124-00074)。
+- **类型/人群/用途：** 中国儿童哮喘诊疗指南；查儿童诊断、评估和规范管理框架，再定位与年龄相符的章节。
+- **核验：** 官方目录及摘要已读，书目信息确认；目录跳转的正文页本次显示“页面未找到”，不代表文献不存在，也不能声称全文已读。
+
+### 3. GINA：Global Strategy for Asthma Management and Prevention
+
+- **机构与入口：** 全球哮喘防治倡议；[2026 Strategy Report](https://ginasthma.org/2026-gina-strategy-report/)及[持续更新的报告目录](https://ginasthma.org/reports/)。
+- **类型/人群/用途：** 基于证据的全球策略报告；覆盖不同年龄人群，需选择儿童相应章节。查诊断思路、控制评估、随访与共同决策；摘要版和重度哮喘分册的适用范围另查。
+- **核验：** 官方报告介绍与目录已读，页面提供 PDF 入口；未把完整报告复制入库。官网对再分发和改编有许可要求；保留链接与原创索引，使用时复核年度版本。
+
 ### 5. RCH：Acute asthma
 
 - **机构与入口：** RCH；[Acute asthma](https://www.rch.org.au/clinicalguide/guideline_index/Acute_asthma/)。
 - **类型/人群/用途：** 儿童哮喘急性发作临床路径；查临床严重程度评估和医院处置框架，页面还链接学龄前、6–11 岁及青少年哮喘管理资料。
 - **核验：** 网页已读。急性发作路径不等于长期控制方案；文中的医院用药与操作不转写为家庭自行执行清单。
-
-### 6. RCH：Community acquired pneumonia
-
-- **机构与入口：** RCH；[Community acquired pneumonia](https://www.rch.org.au/clinicalguide/guideline_index/Pneumonia/)。
-- **类型/人群/用途：** 儿童社区获得性肺炎临床路径；查临床评估、检查适用情境、并发症及复诊讨论。页面将小月龄婴儿引向专门路径。
-- **核验：** 网页已读；国外病原谱、耐药情况和医疗路径需与中国指南核对，不用其单独决定个体抗感染治疗。
-
-## 官方患者教育
 
 ### 7. RCH Kids Health Info：Asthma
 
@@ -60,20 +46,35 @@
 - **类型/人群/用途：** 儿童哮喘患者教育；查症状描述、诱因、吸入装置和行动计划的基本概念，帮助家长准备复诊问题。
 - **核验：** 网页已读；不能用一般资料代替医生为孩子制定的行动计划。急救电话、产品名称及医疗服务安排属于当地环境。
 
-## 检索中英文关键词
+## pneumonia
+
+### 2. 儿童肺炎支原体肺炎诊疗指南（2025年版）
+
+- **机构与入口：** 国家卫生健康委、国家中医药局；[官方通知及附件](https://www.nhc.gov.cn/yzygj/c100068/202509/19e7145436b049a68d4ba8c2060dfa56.shtml)，页面发布于 2025-09-23。
+- **类型/人群/用途：** 儿童肺炎支原体肺炎专项诊疗指南；用于已涉及该病的诊断、病情分层和临床讨论，不能覆盖所有儿童肺炎。
+- **核验：** 官方索引确认其修订自 2023 版；直连返回 412，附件全文未逐页核验。使用前重新确认原文与后续更新。
+
+### 6. RCH：Community acquired pneumonia
+
+- **机构与入口：** RCH；[Community acquired pneumonia](https://www.rch.org.au/clinicalguide/guideline_index/Pneumonia/)。
+- **类型/人群/用途：** 儿童社区获得性肺炎临床路径；查临床评估、检查适用情境、并发症及复诊讨论。页面将小月龄婴儿引向专门路径。
+- **核验：** 网页已读；国外病原谱、耐药情况和医疗路径需与中国指南核对，不用其单独决定个体抗感染治疗。
+
+## search-terms
 
 中文：儿童慢性咳嗽、学龄前喘息、儿童哮喘控制、肺功能、呼出气一氧化氮、社区获得性肺炎、支原体肺炎、吸入装置。英文：`paediatric cough`、`preschool wheeze`、`asthma children 6–11`、`asthma action plan`、`spirometry children`、`community acquired pneumonia children`。
 
-## 适用边界与跨科链接
+## source-notes
 
-检索前明确是否已确诊、症状出现的时间和场景、既往相似发作及客观检查情况。一个病原检测结果不能代替完整评估；咳嗽、喘息与肺炎也不是可以任意互换的诊断标签。资料用于理解证据和准备提问，个人处方调整仍须结合临床检查与既定计划。
+GINA 保留年度报告与持续更新目录两个入口；中国指南保留标题、年份与 DOI；RCH 采用具体页面的更新时间。网页发布日期、报告年份和期刊首发时间是不同字段。GINA 的再分发和改编许可限制见对应原始记录。
 
-鼻部或睡眠问题联查[儿童耳鼻咽喉科](https://github.com/Acongm/primary-care-physician/blob/main/children/pediatric-otolaryngology/references/guidelines.md)，过敏史和暴露关联联查[儿童过敏与免疫科](https://github.com/Acongm/primary-care-physician/blob/main/children/pediatric-allergy-and-immunology/references/guidelines.md)，长期生长或营养疑问联查[儿童保健科](https://github.com/Acongm/primary-care-physician/blob/main/children/child-health-care/references/guidelines.md)。突发明显呼吸异常时先获得医疗帮助，再补查资料。
+## related-resources
 
-## 资料更新规则
+以下为原有可选跨科与目录链接；本技能可独立使用，不要求安装或读取其他技能。
 
-GINA 每次使用先查报告目录中的现行报告；中国指南按标题、年份与 DOI 核实是否替代旧版；RCH 按具体页面检查更新时间。区分“网页发布日期”“报告年份”和“首次发表于期刊的时间”。仅查到目录时保留限制说明，不推定原文推荐内容。
-
-[返回儿科目录](https://github.com/Acongm/primary-care-physician/blob/main/children/README.md)
+- [返回儿科目录](https://github.com/Acongm/primary-care-physician/blob/main/children/README.md)
+- [儿童保健科](https://github.com/Acongm/primary-care-physician/blob/main/children/child-health-care/references/guidelines.md)
+- [儿童过敏与免疫科](https://github.com/Acongm/primary-care-physician/blob/main/children/pediatric-allergy-and-immunology/references/guidelines.md)
+- [儿童耳鼻咽喉科](https://github.com/Acongm/primary-care-physician/blob/main/children/pediatric-otolaryngology/references/guidelines.md)
 
 [返回本技能](../SKILL.md)

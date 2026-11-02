@@ -1,4 +1,0 @@
-interface:
-  display_name: "Adult Dermatology"
-  short_description: "为成年人脚气疑问、湿疹和皮疹查证指南，区分资料范围并准备就诊"
-  default_prompt: "请用 $adult-dermatology 查证足部皮损、湿疹或皮疹相关资料，并整理皮肤科就诊问题。"

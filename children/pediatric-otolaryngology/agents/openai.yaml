@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pediatric Otolaryngology"
+  short_description: "核查儿童鼻炎、打鼾和听力资料，解释检查与手术讨论问题"
+  default_prompt: "请用 $pediatric-otolaryngology 核对儿童打鼾和腺样体评估的权威资料，并准备耳鼻喉科问诊问题。"

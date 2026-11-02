@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pediatric Dermatology"
+  short_description: "核查儿童湿疹、皮疹与瘙痒资料，整理皮肤表现和专科问诊问题"
+  default_prompt: "请用 $pediatric-dermatology 查找适合孩子年龄的湿疹资料，并整理皮肤科复诊需要说明和询问的事项。"

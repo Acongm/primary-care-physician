@@ -1,0 +1,4 @@
+interface:
+  display_name: "Child Health Care"
+  short_description: "区分儿童生长、神经发育与青春期问题，核查标准并准备儿保问诊"
+  default_prompt: "请用 $child-health-care 查找适合孩子年龄的生长与发育资料，并整理儿保就诊时需要确认的问题。"

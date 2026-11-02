@@ -1,0 +1,4 @@
+interface:
+  display_name: "Older Adult Ophthalmology"
+  short_description: "查阅老人白内障、青光眼及糖尿病眼底资料，区分筛查与随访并准备就诊"
+  default_prompt: "请使用 $older-adult-ophthalmology 查阅老人眼科问题的权威资料，区分筛查、诊断与后续监测并整理就诊问题。"

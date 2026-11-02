@@ -1,0 +1,83 @@
+# Pulmonology（呼吸内科）文献
+
+核验日期：2026-11-02。用途：查阅慢性呼吸问题、整理就诊和照护问题的公开资料。
+
+## 适用范围
+
+重点覆盖慢阻肺、慢性咳嗽相关评估、肺功能、呼吸康复及家庭氧疗资料。“老人”是查阅分组；实际应按具体指南的年龄、诊断、病情阶段和共病条件匹配。慢性稳定期、急性加重期和住院后恢复期应分别检索。
+
+下列慢阻肺及氧疗指南不能仅凭年龄、气短、肺气肿影像描述或一次指夹血氧读数直接套用。家庭查阅适合形成“为何检查、治疗针对什么、何时复诊”的问题清单；氧疗是否适用及如何设置须由负责治疗的团队结合评估决定。
+
+## 常见问题与检索路径
+
+| 要了解的问题 | 建议入口 | 检索时补充的信息 |
+|---|---|---|
+| 慢性咳嗽、活动后气短如何评估 | 中国慢阻肺指南、GOLD | 是否已有诊断、肺功能、吸烟或粉尘暴露 |
+| 如何理解吸入治疗和复诊 | NICE NG115、NHS 患者资料 | 吸入装置名称、操作困难、既往急性加重 |
+| 家庭氧疗为何需要评估 | ATS 家庭氧疗指南 | 原始处方、静息或活动场景、复评计划 |
+| 出院后如何恢复活动 | GOLD、NHS 生活管理专题 | 康复安排、活动能力、营养与共病 |
+
+资料比较时把“诊断依据”“长期管理”“急性变化”分开。用不同病程阶段的推荐相互解释，容易得到表面冲突的结论。
+
+## 中国官方或中华期刊指南
+
+### 1. 慢性阻塞性肺疾病诊治指南（2021年修订版）
+
+- 机构：中华医学会呼吸病学分会慢性阻塞性肺疾病学组、中国医师协会呼吸医师分会慢性阻塞性肺疾病工作委员会。
+- 入口：[中华医学期刊官方 HTML](https://cmab.yiigle.com/uploads/guide_html/%E6%85%A2%E6%80%A7%E9%98%BB%E5%A1%9E%E6%80%A7%E8%82%BA%E7%96%BE%E7%97%85%E8%AF%8A%E6%B2%BB%E6%8C%87%E5%8D%97%EF%BC%882021%E5%B9%B4%E4%BF%AE%E8%AE%A2%E7%89%88%EF%BC%89%20-%20%E4%B8%AD%E5%8D%8E%E7%BB%93%E6%A0%B8%E5%92%8C%E5%91%BC%E5%90%B8%E6%9D%82%E5%BF%97.html)。载于《中华结核和呼吸杂志》2021，44(3)：170–205；DOI：10.3760/cma.j.cn112147-20210109-00031。
+- 类型／人群：中文临床指南，慢阻肺评估与管理相关人群，不是所有老年气短的通用诊断规则。
+- 可查：危险因素、诊断及综合评估、稳定期、急性加重与共病管理。核验：已读官方 HTML 页面及目录内容。此处保留明确的 2021 版，不声称它是所有主题的最新证据。
+
+## 国际正式指南与临床路径
+
+### 2. GOLD：2026 Report and Pocket Guide
+
+- 机构：Global Initiative for Chronic Obstructive Lung Disease；[2026 官方报告与口袋指南页](https://goldcopd.org/2026-gold-report-and-pocket-guide/)。完整报告标题为 Global Strategy for Prevention, Diagnosis and Management of COPD: 2026 Report。
+- 类型／人群：英文循证策略报告及临床快速参考，面向慢阻肺诊断、预防和管理。它不是患者自行确定治疗的操作单。
+- 可查：肺功能相关评估、症状与急性加重、吸入治疗框架、康复及合并疾病；需按具体章节核对适用范围。
+- 核验：已读官方报告介绍和下载目录；未在仓库复制报告、表格或幻灯片。后续从官网查新版，不能仅把 URL 中年份递增当成已发布版本。
+
+### 3. NICE NG115：Chronic obstructive pulmonary disease in over 16s: diagnosis and management
+
+- 机构：英国 NICE；[NG115 官方入口](https://www.nice.org.uk/guidance/ng115)，2018 年发布。
+- 类型／人群：英文临床指南，标题限定 16 岁以上的慢阻肺诊疗；不因放在老人目录而扩大或缩小其适用范围。
+- 可查：诊断、非药物干预、吸入治疗、肺康复及长期管理。核验：已确认官方指南 PDF 索引和题名；入口直接抓取返回 403，未判断为收费或必须登录。使用时查看其更新信息及关联指南。
+
+### 4. ATS：Home Oxygen Therapy for Adults with Chronic Lung Disease
+
+- 机构：美国胸科学会；[正式临床指南实施工具页](https://www.thoracic.org/statements/guideline-implementation-tools/home-oxygen-therapy-for-adults.php)；[原发表文章](https://academic.oup.com/ajrccm/article/202/10/e121/8495596)，2020 年，DOI：10.1164/rccm.202009-3608ST。
+- 类型／人群：英文正式临床实践指南；成人慢性肺病，重点包括慢阻肺和间质性肺病的家庭氧疗问题。
+- 可查：长期与活动时氧疗的评估依据、设备教育、安全和复评。核验：已读 ATS 官方实施页，并核对原发表文章索引。实施页一处参考文献年份与原文不同，本条以原发表信息记录 2020 年。
+- 家庭使用：记录要向医生核实的适应证、使用场景、设备操作和复评安排；本页不提供自行增加流量、延长时长或停氧建议。
+
+## 官方患者教育
+
+### 5. NHS：Living with COPD
+
+- 机构：英国国家医疗服务体系；[慢阻肺生活管理专题](https://www.nhs.uk/conditions/chronic-obstructive-pulmonary-disease-copd/living-with/)。类型：英文患者教育，不是独立临床指南。
+- 人群／可查：慢阻肺患者及照护者；日常活动、戒烟支持、用药沟通、生活适应及复诊准备。
+- 核验：已读专题网页。英国服务转诊与联系渠道仅适用于当地；可参考疾病教育内容，国内服务安排以就诊机构为准。
+
+## 中英文检索词
+
+| 中文 | 英文 |
+|---|---|
+| 慢性阻塞性肺疾病／肺功能 | COPD / spirometry |
+| 稳定期／急性加重 | stable COPD / exacerbation |
+| 呼吸康复／吸入装置 | pulmonary rehabilitation / inhaler device |
+| 家庭氧疗／长期氧疗 | home oxygen therapy / long-term oxygen therapy |
+| 活动性低氧／合并疾病 | exertional hypoxemia / comorbidity |
+
+## 跨科链接与适用边界
+
+- 气短伴心血管问题时同时查[心血管内科](https://github.com/Acongm/primary-care-physician/blob/main/older-adults/older-adult-cardiology/references/guidelines.md)，避免将所有症状都归为肺病。
+- 体力下降、营养、跌倒风险及多种药物安排见[老年医学科](https://github.com/Acongm/primary-care-physician/blob/main/older-adults/older-adult-geriatric-medicine/references/guidelines.md)。
+- 危急或明显新发的呼吸变化需要临床评估，不应先依赖目录完成疾病归类；稳定期材料也不能代替出院计划。
+
+## 更新规则
+
+GOLD 按实际发布版本检查；中国指南、NICE 和 ATS 分别核对替代版、勘误与适用人群。保存原始题名、版本及查询日，区分“报告更新”“网页复核”“资料下载”。遇到国外氧疗推荐时保留完整评估条件，不将阈值孤立复制成家庭行动规则。
+
+[返回老人索引](https://github.com/Acongm/primary-care-physician/blob/main/older-adults/README.md)
+
+[返回本技能](../SKILL.md)

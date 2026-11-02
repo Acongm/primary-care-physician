@@ -1,0 +1,4 @@
+interface:
+  display_name: "Adult Dentistry"
+  short_description: "为成年人防龋、牙周维护及牙痛查证口腔资料，整理牙科就诊问题"
+  default_prompt: "请用 $adult-dentistry 查证牙齿保健、龋病或牙周问题相关资料，并整理适用范围和牙科就诊问题。"

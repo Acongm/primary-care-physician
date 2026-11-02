@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pediatric Allergy and Immunology"
+  short_description: "核查儿童食物与药物过敏资料，解释检测边界并准备专科问诊"
+  default_prompt: "请用 $pediatric-allergy-and-immunology 核对儿童过敏原检测的解释依据，并整理向过敏专科医生提问的清单。"

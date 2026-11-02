@@ -1,0 +1,4 @@
+interface:
+  display_name: "Adult Otolaryngology"
+  short_description: "为成年人鼻塞、喷嚏与鼻炎查证官方资料，梳理诱因和就诊问题"
+  default_prompt: "请用 $adult-otolaryngology 查证成年人鼻炎相关指南，帮助梳理症状、诱因和就诊问题。"

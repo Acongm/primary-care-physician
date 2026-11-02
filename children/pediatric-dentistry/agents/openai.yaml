@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pediatric Dentistry"
+  short_description: "核查儿童防龋、含氟措施与窝沟封闭资料，准备儿童牙科问诊"
+  default_prompt: "请用 $pediatric-dentistry 查找适合孩子年龄和牙列阶段的防龋资料，并整理涂氟与窝沟封闭的问诊问题。"

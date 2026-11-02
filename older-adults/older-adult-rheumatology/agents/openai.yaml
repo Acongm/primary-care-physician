@@ -1,0 +1,4 @@
+interface:
+  display_name: "Older Adult Rheumatology"
+  short_description: "查阅老人痛风、类风湿及骨关节炎指南，区分问题类型并准备专科就诊"
+  default_prompt: "请使用 $older-adult-rheumatology 查阅与老人关节或尿酸问题相关的指南，区分病种和阶段并整理证据缺口与就诊问题。"

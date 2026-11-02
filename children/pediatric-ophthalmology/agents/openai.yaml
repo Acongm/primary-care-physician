@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pediatric Ophthalmology"
+  short_description: "核查儿童近视、验光与斜弱视资料，解释检查并准备眼科问诊"
+  default_prompt: "请用 $pediatric-ophthalmology 解释儿童验光和眼轴检查的资料依据，并准备近视管理的问诊问题。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "General Pediatrics"
+  short_description: "核查儿童发热、呕吐腹泻资料，解释就诊路径并整理问诊问题"
+  default_prompt: "请用 $general-pediatrics 查找适合孩子年龄的发热评估资料，并帮我准备就诊问题。"

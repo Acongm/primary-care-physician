@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pediatric Pulmonology"
+  short_description: "按年龄核查儿童咳嗽、哮喘和肺炎资料，解读复诊与行动计划"
+  default_prompt: "请用 $pediatric-pulmonology 核对儿童哮喘的现行资料，并整理复诊时应向医生询问的问题。"
